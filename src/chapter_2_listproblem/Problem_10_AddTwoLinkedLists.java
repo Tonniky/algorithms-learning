@@ -16,11 +16,11 @@ public class Problem_10_AddTwoLinkedLists {
 	public static Node addLists1(Node head1, Node head2) {
 		Stack<Integer> s1 = new Stack<Integer>();
 		Stack<Integer> s2 = new Stack<Integer>();
-		while (head1 != null) {
+		while (head1 != null) {  //将head1存入到堆栈结构
 			s1.push(head1.value);
 			head1 = head1.next;
 		}
-		while (head2 != null) {
+		while (head2 != null) {  //将head2存入到堆栈结构
 			s2.push(head2.value);
 			head2 = head2.next;
 		}
@@ -30,8 +30,8 @@ public class Problem_10_AddTwoLinkedLists {
 		int n = 0;
 		Node node = null;
 		Node pre = null;
-		while (!s1.isEmpty() || !s2.isEmpty()) {
-			n1 = s1.isEmpty() ? 0 : s1.pop();
+		while (!s1.isEmpty() || !s2.isEmpty()) {   //使用的是
+			n1 = s1.isEmpty() ? 0 : s1.pop();      //
 			n2 = s2.isEmpty() ? 0 : s2.pop();
 			n = n1 + n2 + ca;
 			pre = node;

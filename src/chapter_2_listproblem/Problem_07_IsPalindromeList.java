@@ -17,15 +17,15 @@ public class Problem_07_IsPalindromeList {
 	public static boolean isPalindrome1(Node head) {
 		Stack<Node> stack = new Stack<Node>();
 		Node cur = head;
-		while (cur != null) {
+		while (cur != null) {  //将链表存入一个堆栈
 			stack.push(cur);
 			cur = cur.next;
 		}
 		while (head != null) {
-			if (head.value != stack.pop().value) {
+			if (head.value != stack.pop().value) {   //从头和尾部进行比较
 				return false;
 			}
-			head = head.next;
+			head = head.next;   //一直next
 		}
 		return true;
 	}
@@ -37,17 +37,17 @@ public class Problem_07_IsPalindromeList {
 		}
 		Node right = head.next;
 		Node cur = head;
-		while (cur.next != null && cur.next.next != null) {
-			right = right.next;
+		while (cur.next != null && cur.next.next != null) { //唯一一半
+			right = right.next;   //当cur移动到末尾时，right到了中间
 			cur = cur.next.next;
 		}
 		Stack<Node> stack = new Stack<Node>();
-		while (right != null) {
+		while (right != null) {  //然后将右半部分的值放入堆栈结构
 			stack.push(right);
 			right = right.next;
 		}
 		while (!stack.isEmpty()) {
-			if (head.value != stack.pop().value) {
+			if (head.value != stack.pop().value) {  //然后堆栈依次比对
 				return false;
 			}
 			head = head.next;

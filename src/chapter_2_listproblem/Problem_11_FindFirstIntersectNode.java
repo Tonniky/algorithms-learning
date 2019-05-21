@@ -82,15 +82,15 @@ public class Problem_11_FindFirstIntersectNode {
 	public static Node bothLoop(Node head1, Node loop1, Node head2, Node loop2) {
 		Node cur1 = null;
 		Node cur2 = null;
-		if (loop1 == loop2) {
+		if (loop1 == loop2) {   //
 			cur1 = head1;
 			cur2 = head2;
 			int n = 0;
-			while (cur1 != loop1) {
+			while (cur1 != loop1) {  //
 				n++;
 				cur1 = cur1.next;
 			}
-			while (cur2 != loop2) {
+			while (cur2 != loop2) {  //
 				n--;
 				cur2 = cur2.next;
 			}

@@ -29,7 +29,7 @@ public class Problem_05_ReversePartList {
 		Node node2 = node1.next;
 		node1.next = tPos;
 		Node next = null;
-		while (node2 != tPos) {
+		while (node2 != tPos) {  //进行反转
 			next = node2.next;
 			node2.next = node1;
 			node1 = node2;

@@ -6,14 +6,14 @@ public class Problem_05_StackSortStack {
 
 	public static void sortStackByStack(Stack<Integer> stack) {
 		Stack<Integer> help = new Stack<Integer>();
-		while (!stack.isEmpty()) {
+		while (!stack.isEmpty()) {  //将退出的再依次存入
 			int cur = stack.pop();
-			while (!help.isEmpty() && help.peek() < cur) {
+			while (!help.isEmpty() && help.peek() < cur) { //如果当前值大了，将之前的退出
 				stack.push(help.pop());
 			}
 			help.push(cur);
 		}
-		while (!help.isEmpty()) {
+		while (!help.isEmpty()) {  //换一个顺序
 			stack.push(help.pop());
 		}
 	}

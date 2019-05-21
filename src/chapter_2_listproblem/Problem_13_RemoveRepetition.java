@@ -17,18 +17,18 @@ public class Problem_13_RemoveRepetition {
 		if (head == null) {
 			return;
 		}
-		HashSet<Integer> set = new HashSet<Integer>();
+		HashSet<Integer> set = new HashSet<Integer>(); //
 		Node pre = head;
 		Node cur = head.next;
 		set.add(head.value);
 		while (cur != null) {
 			if (set.contains(cur.value)) {
-				pre.next = cur.next;
+				pre.next = cur.next;  //跳过当前值cur
 			} else {
-				set.add(cur.value);
-				pre = cur;
+				set.add(cur.value);   //将cur值给如set
+				pre = cur;			  //将pre一直进行更新
 			}
-			cur = cur.next;
+			cur = cur.next;           //将cur一直往后移动
 		}
 	}
 
@@ -38,12 +38,12 @@ public class Problem_13_RemoveRepetition {
 		Node next = null;
 		while (cur != null) {
 			pre = cur;
-			next = cur.next;
-			while (next != null) {
+			next = cur.next;            //
+			while (next != null) {      //
 				if (cur.value == next.value) {
 					pre.next = next.next;
 				} else {
-					pre = next;
+					pre = next; 		//
 				}
 				next = next.next;
 			}

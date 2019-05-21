@@ -14,7 +14,7 @@ public class Problem_04_ReverseList {
 	public static Node reverseList(Node head) {
 		Node pre = null;
 		Node next = null;
-		while (head != null) {
+		while (head != null) {   //在这里转换
 			next = head.next;
 			head.next = pre;
 			pre = head;

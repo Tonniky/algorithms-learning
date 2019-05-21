@@ -77,7 +77,7 @@ public class Problem_12_ConvertEveryKNodesInList {
 		Node pre = start;
 		Node cur = start.next;
 		Node next = null;
-		while (cur != right) {
+		while (cur != right) {  //逆转链表
 			next = cur.next;
 			cur.next = pre;
 			pre = cur;

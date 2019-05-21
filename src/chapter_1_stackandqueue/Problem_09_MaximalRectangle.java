@@ -25,7 +25,7 @@ public class Problem_09_MaximalRectangle {
 		}
 		int maxArea = 0;
 		Stack<Integer> stack = new Stack<Integer>();
-		for (int i = 0; i < height.length; i++) {
+		for (int i = 0; i < height.length; i++) {  //遍历遍历每层的值
 			while (!stack.isEmpty() && height[i] <= height[stack.peek()]) {
 				int j = stack.pop();
 				int k = stack.isEmpty() ? -1 : stack.peek();

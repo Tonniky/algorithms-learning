@@ -11,19 +11,19 @@ public class Problem_07_SlidingWindowMaxArray {
 		LinkedList<Integer> qmax = new LinkedList<Integer>();
 		int[] res = new int[arr.length - w + 1];
 		int index = 0;
-		for (int i = 0; i < arr.length; i++) {
+		for (int i = 0; i < arr.length; i++) {  //维持一个恒减数组
 			while (!qmax.isEmpty() && arr[qmax.peekLast()] <= arr[i]) {
-				qmax.pollLast();
+				qmax.pollLast();  //就把值给退出来
 			}
-			qmax.addLast(i);
-			if (qmax.peekFirst() == i - w) {
+			qmax.addLast(i);  //将较大的值放入
+			if (qmax.peekFirst() == i - w) {  //如果值过期了就退掉开始的值
 				qmax.pollFirst();
 			}
-			if (i >= w - 1) {
+			if (i >= w - 1) {   //开始统计其中的值
 				res[index++] = arr[qmax.peekFirst()];
 			}
 		}
-		return res;
+		return res;  //返回统计的值
 	}
 
 	// for test

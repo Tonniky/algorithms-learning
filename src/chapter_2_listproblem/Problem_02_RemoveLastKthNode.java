@@ -12,23 +12,23 @@ public class Problem_02_RemoveLastKthNode {
 	}
 
 	public static Node removeLastKthNode(Node head, int lastKth) {
-		if (head == null || lastKth < 1) {
+		if (head == null || lastKth < 1) {  //判断条件
 			return head;
 		}
-		Node cur = head;
-		while (cur != null) {
-			lastKth--;
-			cur = cur.next;
+		Node cur = head;  //使用的是
+		while (cur != null) {    //目前的是
+			lastKth--;           //
+			cur = cur.next;      //用这个作为标记
 		}
-		if (lastKth == 0) {
+		if (lastKth == 0) {   //
 			head = head.next;
 		}
 		if (lastKth < 0) {
 			cur = head;
-			while (++lastKth != 0) {
+			while (++lastKth != 0) {   //保存前几个节点
 				cur = cur.next;
 			}
-			cur.next = cur.next.next;
+			cur.next = cur.next.next;  //正好跳过需要删除的节点
 		}
 		return head;
 	}
