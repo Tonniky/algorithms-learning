@@ -9,7 +9,7 @@ public class Problem_16_LongestConsecutive {
 			return 0;
 		}
 		int max = 1;
-		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();  //
 		for (int i = 0; i < arr.length; i++) {
 			if (!map.containsKey(arr[i])) {
 				map.put(arr[i], 1);

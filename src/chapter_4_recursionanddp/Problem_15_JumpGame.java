@@ -11,10 +11,10 @@ public class Problem_15_JumpGame {
 		int next = 0;
 		for (int i = 0; i < arr.length; i++) {
 			if (cur < i) {
-				jump++;
+				jump++;                                //
 				cur = next;
 			}
-			next = Math.max(next, i + arr[i]);
+			next = Math.max(next, i + arr[i]);          //每次确定该位置能跳到的位置
 		}
 		return jump;
 	}

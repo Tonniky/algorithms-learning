@@ -6,15 +6,15 @@ public class Problem_09_EditCost {
 		if (str1 == null || str2 == null) {
 			return 0;
 		}
-		char[] chs1 = str1.toCharArray();
+		char[] chs1 = str1.toCharArray();   //æ›¿æ¢ä¸­é—´å€¼
 		char[] chs2 = str2.toCharArray();
-		int row = chs1.length + 1;
-		int col = chs2.length + 1;
-		int[][] dp = new int[row][col];
-		for (int i = 1; i < row; i++) {
+		int row = chs1.length + 1;        //è¡Œçš„æ•°ç›®
+		int col = chs2.length + 1;        //åˆ—çš„æ•°ç›®
+		int[][] dp = new int[row][col];   //æ–°å»ºdp
+		for (int i = 1; i < row; i++) {   //è¾¹ç•Œåˆå§‹åŒ–
 			dp[i][0] = dc * i;
 		}
-		for (int j = 1; j < col; j++) {
+		for (int j = 1; j < col; j++) {   //è¾¹ç•Œåˆå§‹åŒ–
 			dp[0][j] = ic * j;
 		}
 		for (int i = 1; i < row; i++) {
@@ -22,10 +22,10 @@ public class Problem_09_EditCost {
 				if (chs1[i - 1] == chs2[j - 1]) {
 					dp[i][j] = dp[i - 1][j - 1];
 				} else {
-					dp[i][j] = dp[i - 1][j - 1] + rc;
+					dp[i][j] = dp[i - 1][j - 1] + rc;   //æ›¿æ¢å•ä¸ªå­—ç¬¦ä¸²
 				}
-				dp[i][j] = Math.min(dp[i][j], dp[i][j - 1] + ic);
-				dp[i][j] = Math.min(dp[i][j], dp[i - 1][j] + dc);
+				dp[i][j] = Math.min(dp[i][j], dp[i][j - 1] + ic);  //æ’å…¥
+				dp[i][j] = Math.min(dp[i][j], dp[i - 1][j] + dc);  //åˆ é™¤
 			}
 		}
 		return dp[row - 1][col - 1];
@@ -39,7 +39,7 @@ public class Problem_09_EditCost {
 		char[] chs2 = str2.toCharArray();
 		char[] longs = chs1.length >= chs2.length ? chs1 : chs2;
 		char[] shorts = chs1.length < chs2.length ? chs1 : chs2;
-		if (chs1.length < chs2.length) { // str2½Ï³¤¾Í½»»»icºÍdcµÄÖµ
+		if (chs1.length < chs2.length) { // str2ï¿½Ï³ï¿½ï¿½Í½ï¿½ï¿½ï¿½icï¿½ï¿½dcï¿½ï¿½Öµ
 			int tmp = ic;
 			ic = dc;
 			dc = tmp;
@@ -49,10 +49,10 @@ public class Problem_09_EditCost {
 			dp[i] = ic * i;
 		}
 		for (int i = 1; i <= longs.length; i++) {
-			int pre = dp[0]; // pre±íÊ¾×óÉÏ½ÇµÄÖµ
+			int pre = dp[0]; // preï¿½ï¿½Ê¾ï¿½ï¿½ï¿½Ï½Çµï¿½Öµ
 			dp[0] = dc * i;
 			for (int j = 1; j <= shorts.length; j++) {
-				int tmp = dp[j]; // dp[j]Ã»¸üĞÂÇ°ÏÈ±£´æÏÂÀ´
+				int tmp = dp[j]; // dp[j]Ã»ï¿½ï¿½ï¿½ï¿½Ç°ï¿½È±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 				if (longs[i - 1] == shorts[j - 1]) {
 					dp[j] = pre;
 				} else {
@@ -60,7 +60,7 @@ public class Problem_09_EditCost {
 				}
 				dp[j] = Math.min(dp[j], dp[j - 1] + ic);
 				dp[j] = Math.min(dp[j], tmp + dc);
-				pre = tmp; // pre±ä³Édp[j]Ã»¸üĞÂÇ°µÄÖµ
+				pre = tmp; // preï¿½ï¿½ï¿½dp[j]Ã»ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ï¿½Öµ
 			}
 		}
 		return dp[shorts.length];

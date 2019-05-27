@@ -41,7 +41,7 @@ public class Problem_01_PreInPosTraversal {
 		System.out.print(head.value + " ");
 	}
 
-	public static void preOrderUnRecur(Node head) {
+	public static void preOrderUnRecur(Node head) { //前序
 		System.out.print("pre-order: ");
 		if (head != null) {
 			Stack<Node> stack = new Stack<Node>();
@@ -60,12 +60,12 @@ public class Problem_01_PreInPosTraversal {
 		System.out.println();
 	}
 
-	public static void inOrderUnRecur(Node head) {
+	public static void inOrderUnRecur(Node head) {   //中序
 		System.out.print("in-order: ");
 		if (head != null) {
 			Stack<Node> stack = new Stack<Node>();
 			while (!stack.isEmpty() || head != null) {
-				if (head != null) {
+				if (head != null) {		//
 					stack.push(head);
 					head = head.left;
 				} else {

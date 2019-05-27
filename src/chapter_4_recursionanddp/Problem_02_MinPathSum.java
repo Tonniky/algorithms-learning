@@ -2,43 +2,43 @@ package chapter_4_recursionanddp;
 
 public class Problem_02_MinPathSum {
 
-	public static int minPathSum1(int[][] m) {
-		if (m == null || m.length == 0 || m[0] == null || m[0].length == 0) {
+	public static int minPathSum1(int[][] m) {   //
+		if (m == null || m.length == 0 || m[0] == null || m[0].length == 0) {   //å¯¹è¾¹ç•Œæƒ…å†µè¿›è¡Œè€ƒè™‘
 			return 0;
 		}
-		int row = m.length;
-		int col = m[0].length;
-		int[][] dp = new int[row][col];
-		dp[0][0] = m[0][0];
-		for (int i = 1; i < row; i++) {
+		int row = m.length;                          //è¡Œçš„æ•°ç›®
+		int col = m[0].length;                       //åˆ—çš„æ•°ç›®
+		int[][] dp = new int[row][col];              //ä½¿ç”¨äºŒç»´æ•°ç»„æŽ’åˆ—
+		dp[0][0] = m[0][0];                          //å¯¹[0][0]ç‚¹è¿›è¡Œèµ‹å€¼
+		for (int i = 1; i < row; i++) {              //å¯¹è¡Œè¿›è¡Œèµ‹å€¼    dp[i][0]
 			dp[i][0] = dp[i - 1][0] + m[i][0];
 		}
-		for (int j = 1; j < col; j++) {
+		for (int j = 1; j < col; j++) {              //å¯¹åˆ—è¿›è¡Œèµ‹å€¼    dp[0][j]
 			dp[0][j] = dp[0][j - 1] + m[0][j];
 		}
 		for (int i = 1; i < row; i++) {
 			for (int j = 1; j < col; j++) {
-				dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + m[i][j];
+				dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + m[i][j];   //å¯¹ä¸¤è¾¹çš„å€¼è¿›è¡Œæ¯”è¾ƒï¼Œå–è¾ƒå°çš„
 			}
 		}
-		return dp[row - 1][col - 1];
+		return dp[row - 1][col - 1];           //è¿”å›žæœ€ä½Žç«¯çš„å€¼
 	}
 
 	public static int minPathSum2(int[][] m) {
 		if (m == null || m.length == 0 || m[0] == null || m[0].length == 0) {
 			return 0;
 		}
-		int more = Math.max(m.length, m[0].length); // ÐÐÊýÓëÁÐÊý½Ï´óµÄÄÇ¸öÎªmore
-		int less = Math.min(m.length, m[0].length); // ÐÐÊýÓëÁÐÊý½ÏÐ¡µÄÄÇ¸öÎªless
-		boolean rowmore = more == m.length; // ÐÐÊýÊÇ²»ÊÇ´óÓÚµÈÓÚÁÐÊý
-		int[] arr = new int[less]; // ¸¨ÖúÊý×éµÄ³¤¶È½öÎªÐÐÊýÓëÁÐÊýÖÐµÄ×îÐ¡Öµ
-		arr[0] = m[0][0];
-		for (int i = 1; i < less; i++) {
-			arr[i] = arr[i - 1] + (rowmore ? m[0][i] : m[i][0]);
+		int more = Math.max(m.length, m[0].length); 	//åˆ¤æ–­æ˜¯è¡Œè¿˜æ˜¯åˆ—å¤š
+		int less = Math.min(m.length, m[0].length); 	//
+		boolean rowmore = more == m.length;             //æ˜¯å¦è¡Œæ›´å¤š
+		int[] arr = new int[less];                      //ä½¿ç”¨
+		arr[0] = m[0][0];                               //å¯¹arr[0]è¿›è¡Œèµ‹å€¼
+		for (int i = 1; i < less; i++) {                //
+			arr[i] = arr[i - 1] + (rowmore ? m[0][i] : m[i][0]);   //å¯¹lessçš„å€¼è¿›è¡Œèµ‹å€¼
 		}
 		for (int i = 1; i < more; i++) {
-			arr[0] = arr[0] + (rowmore ? m[i][0] : m[0][i]);
-			for (int j = 1; j < less; j++) {
+			arr[0] = arr[0] + (rowmore ? m[i][0] : m[0][i]);       //
+			for (int j = 1; j < less; j++) {                       //
 				arr[j] = Math.min(arr[j - 1], arr[j])
 						+ (rowmore ? m[i][j] : m[j][i]);
 			}

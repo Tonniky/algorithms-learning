@@ -6,7 +6,7 @@ public class Problem_13_ExpressionNumber {
 		if ((exp.length & 1) == 0) {
 			return false;
 		}
-		for (int i = 0; i < exp.length; i = i + 2) {
+		for (int i = 0; i < exp.length; i = i + 2) {		//
 			if ((exp[i] != '1') && (exp[i] != '0')) {
 				return false;
 			}

@@ -3,7 +3,7 @@ package chapter_4_recursionanddp;
 public class Problem_17_NQueens {
 
 	public static int num1(int n) {
-		if (n < 1) {
+		if (n < 1) {             //
 			return 0;
 		}
 		int[] record = new int[n];
@@ -11,7 +11,7 @@ public class Problem_17_NQueens {
 	}
 
 	public static int process1(int i, int[] record, int n) {
-		if (i == n) {
+		if (i == n) {   //ä¹Ÿå°±æ˜¯nä¸º0
 			return 1;
 		}
 		int res = 0;
@@ -26,7 +26,7 @@ public class Problem_17_NQueens {
 
 	public static boolean isValid(int[] record, int i, int j) {
 		for (int k = 0; k < i; k++) {
-			if (j == record[k] || Math.abs(record[k] - j) == Math.abs(i - k)) {
+			if (j == record[k] || Math.abs(record[k] - j) == Math.abs(i - k)) {  //
 				return false;
 			}
 		}
@@ -34,8 +34,8 @@ public class Problem_17_NQueens {
 	}
 
 	public static int num2(int n) {
-		// ÒòÎª±¾·½·¨ÖÐÎ»ÔËËãµÄÔØÌåÊÇintÐÍ±äÁ¿£¬ËùÒÔ¸Ã·½·¨Ö»ÄÜËã1~32»ÊºóÎÊÌâ
-		// Èç¹ûÏë¼ÆËã¸ü¶àµÄ»ÊºóÎÊÌâ£¬ÐèÊ¹ÓÃ°üº¬¸ü¶àÎ»µÄ±äÁ¿
+		// ï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½intï¿½Í±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¸Ã·ï¿½ï¿½ï¿½Ö»ï¿½ï¿½ï¿½ï¿½1~32ï¿½Êºï¿½ï¿½ï¿½ï¿½ï¿½
+		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä»Êºï¿½ï¿½ï¿½ï¿½â£¬ï¿½ï¿½Ê¹ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½Ä±ï¿½ï¿½ï¿½
 		if (n < 1 || n > 32) {
 			return 0;
 		}

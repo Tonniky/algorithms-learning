@@ -8,19 +8,19 @@ public class Problem_10_StringCross {
 		}
 		char[] ch1 = str1.toCharArray();
 		char[] ch2 = str2.toCharArray();
-		char[] chaim = aim.toCharArray();
+		char[] chaim = aim.toCharArray();  //
 		if (chaim.length != ch1.length + ch2.length) {
 			return false;
 		}
 		boolean[][] dp = new boolean[ch1.length + 1][ch2.length + 1];
 		dp[0][0] = true;
-		for (int i = 1; i <= ch1.length; i++) {
+		for (int i = 1; i <= ch1.length; i++) {   //确定边界
 			if (ch1[i - 1] != chaim[i - 1]) {
 				break;
 			}
 			dp[i][0] = true;
 		}
-		for (int j = 1; j <= ch2.length; j++) {
+		for (int j = 1; j <= ch2.length; j++) {    //边界
 			if (ch2[j - 1] != chaim[j - 1]) {
 				break;
 			}
@@ -28,7 +28,7 @@ public class Problem_10_StringCross {
 		}
 		for (int i = 1; i <= ch1.length; i++) {
 			for (int j = 1; j <= ch2.length; j++) {
-				if ((ch1[i - 1] == chaim[i + j - 1] && dp[i - 1][j])
+				if ((ch1[i - 1] == chaim[i + j - 1] && dp[i - 1][j])          //判断最后的值是否符合
 						|| (ch2[j - 1] == chaim[i + j - 1] && dp[i][j - 1])) {
 					dp[i][j] = true;
 				}
@@ -47,11 +47,11 @@ public class Problem_10_StringCross {
 		if (chaim.length != ch1.length + ch2.length) {
 			return false;
 		}
-		char[] longs = ch1.length >= ch2.length ? ch1 : ch2;
-		char[] shorts = ch1.length < ch2.length ? ch1 : ch2;
+		char[] longs = ch1.length >= ch2.length ? ch1 : ch2;       //
+		char[] shorts = ch1.length < ch2.length ? ch1 : ch2;       //
 		boolean[] dp = new boolean[shorts.length + 1];
 		dp[0] = true;
-		for (int i = 1; i <= shorts.length; i++) {
+		for (int i = 1; i <= shorts.length; i++) {      //
 			if (shorts[i - 1] != chaim[i - 1]) {
 				break;
 			}
@@ -60,7 +60,7 @@ public class Problem_10_StringCross {
 		for (int i = 1; i <= longs.length; i++) {
 			dp[0] = dp[0] && longs[i - 1] == chaim[i - 1];
 			for (int j = 1; j <= shorts.length; j++) {
-				if ((longs[i - 1] == chaim[i + j - 1] && dp[j])
+				if ((longs[i - 1] == chaim[i + j - 1] && dp[j])          //判断最后的一个值是否符合
 						|| (shorts[j - 1] == chaim[i + j - 1] && dp[j - 1])) {
 					dp[j] = true;
 				} else {

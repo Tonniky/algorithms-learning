@@ -8,12 +8,12 @@ public class Problem_03_RemoveKZeros {
 		}
 		char[] chas = str.toCharArray();
 		int count = 0, start = -1;
-		for (int i = 0; i != chas.length; i++) {
+		for (int i = 0; i != chas.length; i++) {                         //
 			if (chas[i] == '0') {
 				count++;
 				start = start == -1 ? i : start;
 			} else {
-				if (count == k) {
+				if (count == k) {                                       //
 					while (count-- != 0)
 						chas[start++] = 0;
 				}
@@ -21,7 +21,7 @@ public class Problem_03_RemoveKZeros {
 				start = -1;
 			}
 		}
-		if (count == k) {
+		if (count == k) {                                              //
 			while (count-- != 0)
 				chas[start++] = 0;
 		}

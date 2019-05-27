@@ -13,31 +13,31 @@ public class Problem_08_LCSubstring {
 		int max = 0;
 		for (int i = 0; i < chs1.length; i++) {
 			for (int j = 0; j < chs2.length; j++) {
-				if (dp[i][j] > max) {
+				if (dp[i][j] > max) {     //å¯»æ‰¾æœ€å¤§çš„dp
 					end = i;
 					max = dp[i][j];
 				}
 			}
 		}
-		return str1.substring(end - max + 1, end + 1);
+		return str1.substring(end - max + 1, end + 1);  //ç„¶åè¿”å›çš„å€¼
 	}
 
 	public static int[][] getdp(char[] str1, char[] str2) {
 		int[][] dp = new int[str1.length][str2.length];
 		for (int i = 0; i < str1.length; i++) {
-			if (str1[i] == str2[0]) {
+			if (str1[i] == str2[0]) {   //è¾¹ç•Œ
 				dp[i][0] = 1;
 			}
 		}
 		for (int j = 1; j < str2.length; j++) {
-			if (str1[0] == str2[j]) {
+			if (str1[0] == str2[j]) {    //è¾¹ç•Œ
 				dp[0][j] = 1;
 			}
 		}
 		for (int i = 1; i < str1.length; i++) {
 			for (int j = 1; j < str2.length; j++) {
 				if (str1[i] == str2[j]) {
-					dp[i][j] = dp[i - 1][j - 1] + 1;
+					dp[i][j] = dp[i - 1][j - 1] + 1;   //å¯¹dpè¿›è¡Œåˆ·æ–°
 				}
 			}
 		}
@@ -50,32 +50,32 @@ public class Problem_08_LCSubstring {
 		}
 		char[] chs1 = str1.toCharArray();
 		char[] chs2 = str2.toCharArray();
-		int row = 0; // Ğ±Ïß¿ªÊ¼Î»ÖÃµÄĞĞ
-		int col = chs2.length - 1; // Ğ±Ïß¿ªÊ¼Î»ÖÃµÄÁĞ
-		int max = 0; // ¼ÇÂ¼×î´ó³¤¶È
-		int end = 0; // ×î´ó³¤¶È¸üĞÂÊ±£¬¼ÇÂ¼×Ó´®µÄ½áÎ²Î»ÖÃ
+		int row = 0;                   //è¡Œ
+		int col = chs2.length - 1;     //åˆ—
+		int max = 0;         //å…¬å…±çš„å­ä¸²å¤§å°
+		int end = 0;         //ç»“æŸçš„ä½ç½®
 		while (row < chs1.length) {
 			int i = row;
 			int j = col;
 			int len = 0;
-			// ´Ó(i,j)¿ªÊ¼ÏòÓÒÏÂ·½±éÀú
-			while (i < chs1.length && j < chs2.length) {
+
+			while (i < chs1.length && j < chs2.length) {   //chs1å’Œchs2çš„ä½¿ç”¨æ˜¯
 				if (chs1[i] != chs2[j]) {
 					len = 0;
 				} else {
-					len++;
+					len++;    //ä½¿ç”¨ch1æ¥è¿›è¡Œæµ‹è¯•
 				}
-				// ¼ÇÂ¼×î´óÖµ£¬ÒÔ¼°½áÊø×Ö·ûµÄÎ»ÖÃ
-				if (len > max) {
+
+				if (len > max) {  //
 					end = i;
 					max = len;
 				}
-				i++;
-				j++;
+				i++;  //å‘åç§»åŠ¨ä¸€ä½ å¿…é¡»åŒæ—¶åŠ å‡
+				j++;  //å‘åç§»åŠ¨
 			}
-			if (col > 0) { // Ğ±Ïß¿ªÊ¼Î»ÖÃµÄÁĞÏÈÏò×óÒÆ¶¯
+			if (col > 0) { //
 				col--;
-			} else { // ÁĞÒÆ¶¯µ½×î×óÖ®ºó£¬ĞĞÏòÏÂÒÆ¶¯
+			} else { //
 				row++;
 			}
 		}

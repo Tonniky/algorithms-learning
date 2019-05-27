@@ -3,13 +3,13 @@ package chapter_4_recursionanddp;
 public class Problem_11_DungeonGame {
 
 	public static int minHP1(int[][] m) {
-		if (m == null || m.length == 0 || m[0] == null || m[0].length == 0) {
+		if (m == null || m.length == 0 || m[0] == null || m[0].length == 0) {  //对情况进行判断
 			return 1;
 		}
-		int row = m.length;
-		int col = m[0].length;
-		int[][] dp = new int[row--][col--];
-		dp[row][col] = m[row][col] > 0 ? 1 : -m[row][col] + 1;
+		int row = m.length;                                                    //行的数目
+		int col = m[0].length;                                                 //列的数目
+		int[][] dp = new int[row--][col--];                                    //设置位数
+		dp[row][col] = m[row][col] > 0 ? 1 : -m[row][col] + 1;                 //
 		for (int j = col - 1; j >= 0; j--) {
 			dp[row][j] = Math.max(dp[row][j + 1] - m[row][j], 1);
 		}

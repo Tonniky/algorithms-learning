@@ -15,12 +15,12 @@ public class Problem_04_IsRotation {
 		if (s.length() < m.length()) {
 			return -1;
 		}
-		char[] ss = s.toCharArray();
+		char[] ss = s.toCharArray();   //较长的那个
 		char[] ms = m.toCharArray();
 		int si = 0;
 		int mi = 0;
 		int[] next = getNextArray(ms);
-		while (si < ss.length && mi < ms.length) {
+		while (si < ss.length && mi < ms.length) {      //
 			if (ss[si] == ms[mi]) {
 				si++;
 				mi++;
@@ -30,10 +30,10 @@ public class Problem_04_IsRotation {
 				mi = next[mi];
 			}
 		}
-		return mi == ms.length ? si - mi : -1;
+		return mi == ms.length ? si - mi : -1;      //
 	}
 
-	public static int[] getNextArray(char[] ms) {
+	public static int[] getNextArray(char[] ms) {   //
 		if (ms.length == 1) {
 			return new int[] { -1 };
 		}

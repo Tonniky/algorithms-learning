@@ -1,18 +1,18 @@
 package chapter_4_recursionanddp;
 
 public class Problem_01_FibonacciProblem {
-
+		//
 	public static int f1(int n) {
-		if (n < 1) {
+		if (n < 1) {  //å½“nä¸º0çš„æƒ…å†µ
 			return 0;
 		}
-		if (n == 1 || n == 2) {
+		if (n == 1 || n == 2) { 	//å½“nä¸º1æˆ–è€…2çš„æƒ…å†µä¸‹ï¼Œè¿”å›ž
 			return 1;
 		}
-		return f1(n - 1) + f1(n - 2);
+		return f1(n - 1) + f1(n - 2);  //ä½¿ç”¨è¿­ä»£æ–¹æ³•æ¥ä½¿ç”¨ã€‚
 	}
 
-	public static int f2(int n) {
+	public static int f2(int n) {      //
 		if (n < 1) {
 			return 0;
 		}
@@ -22,10 +22,10 @@ public class Problem_01_FibonacciProblem {
 		int res = 1;
 		int pre = 1;
 		int tmp = 0;
-		for (int i = 3; i <= n; i++) {
-			tmp = res;
+		for (int i = 3; i <= n; i++) {     //
+			tmp = res;                     //å°†resçš„å€¼èµ‹ç»™
 			res = res + pre;
-			pre = tmp;
+			pre = tmp;                     //
 		}
 		return res;
 	}
@@ -37,14 +37,14 @@ public class Problem_01_FibonacciProblem {
 		if (n == 1 || n == 2) {
 			return 1;
 		}
-		int[][] base = { { 1, 1 }, { 1, 0 } };
+		int[][] base = { { 1, 1 }, { 1, 0 } };	//
 		int[][] res = matrixPower(base, n - 2);
 		return res[0][0] + res[1][0];
 	}
 
 	public static int[][] matrixPower(int[][] m, int p) {
 		int[][] res = new int[m.length][m[0].length];
-		// ÏÈ°ÑresÉèÎªµ¥Î»¾ØÕó£¬ÏàµÈÓÚÕûÊýÖÐµÄ1¡£
+		// ï¿½È°ï¿½resï¿½ï¿½Îªï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ðµï¿½1ï¿½ï¿½
 		for (int i = 0; i < res.length; i++) {
 			res[i][i] = 1;
 		}
