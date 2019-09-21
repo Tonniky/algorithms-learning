@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="Processing of submitted multi-threaded and stream streams">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aop/BusinessInterfaceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aop/BusinessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ConditionTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadLocalDemo2.java" afterDir="false" />
+    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
+      <change afterPath="$PROJECT_DIR$/src/thread/ArrayBlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/BlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/CyclicBarrierTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/CylicBarrierResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ExchangerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/FutureTaskThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/MyBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ReadWriteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ReentranReadWriteLockTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ReentrantLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ReentrantLockTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ReentrantLockTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ReentrantReadWriteLockTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ReentrantReadWriteLockTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/StampedLockDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/StampedLockTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/StampedLockTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/StampedLockTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/TestForkJoinPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadLocalDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadLocalDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadLocalDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadLocalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadLocalTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadLocalTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ZooKeeperSession.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="algorithms-learning.iws" />
@@ -49,10 +75,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/Food.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ReadWriteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="110">
               <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -76,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/StampedLockTest6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="88">
               <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,11 +124,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/thread/SynchronizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ZooKeeperSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -116,12 +164,16 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tonniky &lt;2249666919@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_04_IsRotation.java" />
         <option value="$PROJECT_DIR$/src/cs61b/LinkedListDeque.java" />
         <option value="$PROJECT_DIR$/src/thread/ThreadMonitorTimeoutTest.java" />
         <option value="$PROJECT_DIR$/src/thread/CustomThreadPool.java" />
@@ -153,7 +205,6 @@
         <option value="$PROJECT_DIR$/src/thread/ThreadLocalDemo2.java" />
         <option value="$PROJECT_DIR$/src/thread/ThreadLocalDemo3.java" />
         <option value="$PROJECT_DIR$/src/thread/FutureTaskThread.java" />
-        <option value="$PROJECT_DIR$/src/thread/Food.java" />
         <option value="$PROJECT_DIR$/src/thread/BlockingQueueTest.java" />
         <option value="$PROJECT_DIR$/src/thread/ArrayBlockingQueueTest.java" />
         <option value="$PROJECT_DIR$/src/thread/CountTaskextendsRecursiveTask.java" />
@@ -172,6 +223,8 @@
         <option value="$PROJECT_DIR$/src/thread/StampedLockTest6.java" />
         <option value="$PROJECT_DIR$/src/thread/SynchronizedTest.java" />
         <option value="$PROJECT_DIR$/src/thread/ReadWriteTest.java" />
+        <option value="$PROJECT_DIR$/src/thread/ZooKeeperSession.java" />
+        <option value="$PROJECT_DIR$/src/thread/Food.java" />
       </list>
     </option>
   </component>
@@ -200,6 +253,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,7 +303,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -639,7 +692,9 @@
       <workItem from="1566143199024" duration="604000" />
       <workItem from="1566177265508" duration="68000" />
       <workItem from="1568763682949" duration="17135000" />
-      <workItem from="1568805024682" duration="619000" />
+      <workItem from="1568805024682" duration="1559000" />
+      <workItem from="1568855248096" duration="560000" />
+      <workItem from="1569051121934" duration="1005000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -648,7 +703,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564497477270</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update locks and high concurrency !">
+      <created>1568807183657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568807183657</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -666,7 +728,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138101000" />
+    <option name="totallyTimeSpent" value="140606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -681,7 +743,7 @@
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09328358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24253732" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -695,11 +757,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49840087" weight="0.3275488" />
-      <window_info anchor="bottom" x="992" y="135" width="350" height="449" id="Version Control" order="7" type="WINDOWED" weight="0.44164038" />
+      <window_info anchor="bottom" x="1366" y="23" width="1920" height="1017" id="Version Control" maximized="true" order="7" type="WINDOWED" visible="true" weight="0.44164038" />
       <window_info anchor="bottom" id="JProfiler" order="8" sideWeight="0.49946696" weight="0.21800433" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49413645" weight="0.28524947" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.37153518" side_tool="true" visible="true" weight="0.20173536" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4936034" weight="0.2559653" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50692964" side_tool="true" visible="true" weight="0.2559653" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49307036" visible="true" weight="0.2559653" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="14" sideWeight="0.49946696" visible="true" weight="0.329718" />
@@ -769,7 +831,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Processing of submitted multi-threaded and stream streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="Processing of submitted multi-threaded and stream streams" />
+    <MESSAGE value="Update locks and high concurrency !" />
+    <MESSAGE value="continue Update locks and high concurrency!" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue Update locks and high concurrency!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1294,16 +1358,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/thread/ThreadMonitorTimeoutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Aop/BusinessObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1547,19 +1601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/BlockingQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1745,6 +1786,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/qudong/java8/jdk/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ReadWriteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/StampedLockTest4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1757,7 +1815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/StampedLockTest6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="88">
           <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1765,27 +1823,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ZooKeeperSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/SynchronizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/qudong/java8/jdk/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ReadWriteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
