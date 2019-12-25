@@ -7,7 +7,7 @@ public class Food {
     public String getName(){
          return this.Name;
     }
-    private void setName(String Name){
+    public void setName(String Name){
         this.Name = Name;
     }
 

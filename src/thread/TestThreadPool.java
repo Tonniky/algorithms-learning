@@ -1,3 +1,5 @@
+package thread;
+
 import thread.Thread1;
 import thread.Thread2;
 
