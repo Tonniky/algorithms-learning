@@ -42,10 +42,20 @@ public class Problem_14_ParenthesesProblem {
 		return res;
 	}
 
+	public static boolean isValid2(String s) {
+		while(s.contains("()") || s.contains("[]") || s.contains("{}")) {
+			s = s.replaceAll("\\(\\)","");
+			s = s.replaceAll("\\[\\]","");
+			s = s.replaceAll("\\{\\}","");
+		}
+		return s.length() == 0;
+	}
+
 	public static void main(String[] args) {
 		String str1 = "((())())";
 		System.out.println(isValid(str1));
 		System.out.println(maxLength(str1));
+		System.out.println(isValid2(str1));
 
 		String str2 = "(())(()(()))";
 		System.out.println(isValid(str2));

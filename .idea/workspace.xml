@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
-      <change afterPath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/isSameTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stream/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream/Join.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/TestThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/ThreadMonitorTimeoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/ThreadMonitorTimeoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/chapter_5_stringproblem/Problem_14_ParenthesesProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/chapter_5_stringproblem/Problem_14_ParenthesesProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassLoaderLeakExample">
+  <component name="RunManager" selected="Application.Problem_14_ParenthesesProblem">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -277,15 +273,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWriteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ReadWriteTest" />
+    <configuration name="Problem_14_ParenthesesProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_5_stringproblem.Problem_14_ParenthesesProblem" />
       <module name="algorithms-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -369,18 +359,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.SynchronizedTest" />
-      <item itemvalue="Application.ReadWriteTest" />
       <item itemvalue="Application.Problem_01_GetMinStack" />
       <item itemvalue="Application.Problem_10_RecoverBST" />
       <item itemvalue="Application.ClassLoaderLeakExample" />
+      <item itemvalue="Application.Problem_14_ParenthesesProblem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_14_ParenthesesProblem" />
         <item itemvalue="Application.ClassLoaderLeakExample" />
         <item itemvalue="Application.Problem_10_RecoverBST" />
         <item itemvalue="Application.Problem_01_GetMinStack" />
         <item itemvalue="Application.SynchronizedTest" />
-        <item itemvalue="Application.ReadWriteTest" />
       </list>
     </recent_temporary>
   </component>
@@ -441,6 +431,10 @@
       <workItem from="1574956204824" duration="203000" />
       <workItem from="1575109355033" duration="3064000" />
       <workItem from="1576064939547" duration="2355000" />
+      <workItem from="1577970448463" duration="420000" />
+      <workItem from="1578754285297" duration="598000" />
+      <workItem from="1584542375397" duration="308000" />
+      <workItem from="1586665970063" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -473,17 +467,18 @@
       <configuration name="StampedLockTest6.test1" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -897,6 +892,16 @@
           <url>file://$PROJECT_DIR$/src/thread/BlockingQueueTest.java</url>
           <line>39</line>
           <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
