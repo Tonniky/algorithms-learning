@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsFourthPrinceton/Sort/mergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/chapter_5_stringproblem/Problem_14_ParenthesesProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/chapter_5_stringproblem/Problem_14_ParenthesesProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_14_ParenthesesProblem">
+  <component name="RunManager" selected="Application.mergeSort">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -259,13 +258,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_01_GetMinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1_stackandqueue.Problem_01_GetMinStack" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Problem_10_RecoverBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_3_binarytreeproblem.Problem_10_RecoverBST" />
       <module name="algorithms-learning" />
@@ -280,15 +272,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.SynchronizedTest" />
+    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmsFourthPrinceton.Sort.mergeSort" />
       <module name="algorithms-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmsFourthPrinceton.Sort.shellSort" />
+      <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -358,19 +351,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.SynchronizedTest" />
-      <item itemvalue="Application.Problem_01_GetMinStack" />
       <item itemvalue="Application.Problem_10_RecoverBST" />
       <item itemvalue="Application.ClassLoaderLeakExample" />
       <item itemvalue="Application.Problem_14_ParenthesesProblem" />
+      <item itemvalue="Application.shellSort" />
+      <item itemvalue="Application.mergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeSort" />
+        <item itemvalue="Application.shellSort" />
         <item itemvalue="Application.Problem_14_ParenthesesProblem" />
         <item itemvalue="Application.ClassLoaderLeakExample" />
         <item itemvalue="Application.Problem_10_RecoverBST" />
-        <item itemvalue="Application.Problem_01_GetMinStack" />
-        <item itemvalue="Application.SynchronizedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +427,7 @@
       <workItem from="1577970448463" duration="420000" />
       <workItem from="1578754285297" duration="598000" />
       <workItem from="1584542375397" duration="308000" />
-      <workItem from="1586665970063" duration="375000" />
+      <workItem from="1586665970063" duration="8682000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -450,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568807183657</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="continue Update locks and high concurrency!">
+      <created>1586666619275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586666619275</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
