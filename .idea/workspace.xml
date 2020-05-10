@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
+    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="Update some method about sort.">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_01_SwapWithoutTmp">
+  <component name="RunManager" selected="Application.Leetcode51">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -238,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassLoaderLeakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.ClassLoaderLeakExample" />
+    <configuration name="Leetcode51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode51" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -338,19 +340,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ClassLoaderLeakExample" />
       <item itemvalue="Application.Problem_14_ParenthesesProblem" />
       <item itemvalue="Application.shellSort" />
       <item itemvalue="Application.mergeSort" />
       <item itemvalue="Application.Problem_01_SwapWithoutTmp" />
+      <item itemvalue="Application.Leetcode51" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode51" />
         <item itemvalue="Application.Problem_01_SwapWithoutTmp" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.shellSort" />
         <item itemvalue="Application.Problem_14_ParenthesesProblem" />
-        <item itemvalue="Application.ClassLoaderLeakExample" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +416,7 @@
       <workItem from="1577970448463" duration="420000" />
       <workItem from="1578754285297" duration="598000" />
       <workItem from="1584542375397" duration="308000" />
-      <workItem from="1586665970063" duration="13724000" />
+      <workItem from="1586665970063" duration="22125000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -444,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586694071225</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update some method about sort.">
+      <created>1589100088144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589100088144</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -513,7 +522,8 @@
     <MESSAGE value="Processing of submitted multi-threaded and stream streams" />
     <MESSAGE value="Update locks and high concurrency !" />
     <MESSAGE value="continue Update locks and high concurrency!" />
-    <option name="LAST_COMMIT_MESSAGE" value="continue Update locks and high concurrency!" />
+    <MESSAGE value="Update some method about sort." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update some method about sort." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -753,16 +763,6 @@
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stream/streamPro.java</url>
-          <line>99</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stream/streamPro.java</url>
-          <line>91</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/TestThreadPool.java</url>
           <line>46</line>
           <option name="timeStamp" value="67" />
@@ -896,6 +896,11 @@
           <url>file://$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java</url>
           <line>47</line>
           <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode51.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
