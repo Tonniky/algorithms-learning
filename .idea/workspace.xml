@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsFourthPrinceton/Sort/mergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,18 +35,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>peek</find>
-      <find>shutdown</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>F:\springboot\algorithms-learning\src\Stream</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -111,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mergeSort">
+  <component name="RunManager" selected="Application.Problem_01_SwapWithoutTmp">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -258,8 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_10_RecoverBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3_binarytreeproblem.Problem_10_RecoverBST" />
+    <configuration name="Problem_01_SwapWithoutTmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_7_bitoperation.Problem_01_SwapWithoutTmp" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -351,19 +338,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Problem_10_RecoverBST" />
       <item itemvalue="Application.ClassLoaderLeakExample" />
       <item itemvalue="Application.Problem_14_ParenthesesProblem" />
       <item itemvalue="Application.shellSort" />
       <item itemvalue="Application.mergeSort" />
+      <item itemvalue="Application.Problem_01_SwapWithoutTmp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_01_SwapWithoutTmp" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.shellSort" />
         <item itemvalue="Application.Problem_14_ParenthesesProblem" />
         <item itemvalue="Application.ClassLoaderLeakExample" />
-        <item itemvalue="Application.Problem_10_RecoverBST" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +414,7 @@
       <workItem from="1577970448463" duration="420000" />
       <workItem from="1578754285297" duration="598000" />
       <workItem from="1584542375397" duration="308000" />
-      <workItem from="1586665970063" duration="8682000" />
+      <workItem from="1586665970063" duration="13724000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -450,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586666619275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="continue Update locks and high concurrency!">
+      <created>1586694071225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586694071225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
