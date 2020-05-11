@@ -21,7 +21,7 @@ public class Leetcode57 {
             }
             interval[interval.length - 1][0] = newInterval[0];
             interval[interval.length - 1][1] = newInterval[1];
-        
+
         Arrays.sort(interval, (a, b) ->a[0] -b[0]);
         int[][] temp = new int[interval.length][interval[0].length];
         int curL = interval[0][0];
