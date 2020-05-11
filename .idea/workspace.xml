@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="Update some method about sort.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode51.java" afterDir="false" />
+    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode51.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,14 +79,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\springboot\algorithms-learning\src\com\company" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\springboot\algorithms-learning\src\Stream" />
       <recent name="F:\springboot\algorithms-learning\src\projectFast" />
       <recent name="F:\springboot\algorithms-learning\src\youhua" />
       <recent name="F:\springboot\algorithms-learning\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\springboot\algorithms-learning\src\com\company" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -100,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode51">
+  <component name="RunManager" selected="Application.Leetcode53">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -247,6 +251,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leetcode52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode52" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode53" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem_01_SwapWithoutTmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_7_bitoperation.Problem_01_SwapWithoutTmp" />
       <module name="algorithms-learning" />
@@ -254,22 +272,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_14_ParenthesesProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_5_stringproblem.Problem_14_ParenthesesProblem" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmsFourthPrinceton.Sort.mergeSort" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmsFourthPrinceton.Sort.shellSort" />
+    <configuration name="leetcode53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.leetcode53" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -340,19 +344,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Problem_14_ParenthesesProblem" />
-      <item itemvalue="Application.shellSort" />
-      <item itemvalue="Application.mergeSort" />
       <item itemvalue="Application.Problem_01_SwapWithoutTmp" />
       <item itemvalue="Application.Leetcode51" />
+      <item itemvalue="Application.Leetcode52" />
+      <item itemvalue="Application.leetcode53" />
+      <item itemvalue="Application.Leetcode53" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode53" />
+        <item itemvalue="Application.leetcode53" />
+        <item itemvalue="Application.Leetcode52" />
         <item itemvalue="Application.Leetcode51" />
         <item itemvalue="Application.Problem_01_SwapWithoutTmp" />
-        <item itemvalue="Application.mergeSort" />
-        <item itemvalue="Application.shellSort" />
-        <item itemvalue="Application.Problem_14_ParenthesesProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +420,7 @@
       <workItem from="1577970448463" duration="420000" />
       <workItem from="1578754285297" duration="598000" />
       <workItem from="1584542375397" duration="308000" />
-      <workItem from="1586665970063" duration="22125000" />
+      <workItem from="1586665970063" duration="29057000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -453,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589100088144</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="the task of leetcode, keep updating.">
+      <created>1589119011976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589119011976</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -523,7 +534,8 @@
     <MESSAGE value="Update locks and high concurrency !" />
     <MESSAGE value="continue Update locks and high concurrency!" />
     <MESSAGE value="Update some method about sort." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update some method about sort." />
+    <MESSAGE value="the task of leetcode, keep updating." />
+    <option name="LAST_COMMIT_MESSAGE" value="the task of leetcode, keep updating." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

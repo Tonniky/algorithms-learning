@@ -120,6 +120,4 @@ public class Leetcode51 {
         System.out.println("n皇后为" + res);
     }
 
-
-
 }
