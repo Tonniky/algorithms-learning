@@ -31,7 +31,7 @@ public class Leetcode72 {
         }
         return res[left][right];
     }
-    
+
     public static void main(String[] args) {
         Leetcode72 output = new Leetcode72();
         output.minDistance("horse","ros");
