@@ -12,7 +12,7 @@ public class Leetcode168 {
         }
         return new StringBuilder(ans).reverse().toString();
     }
-    
+
     public String convertToTitle1(int n) {
         StringBuilder sb = new StringBuilder();
         while (n > 0) {
