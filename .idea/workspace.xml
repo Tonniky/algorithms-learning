@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode174.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode168.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode172">
+  <component name="RunManager" selected="Application.Leetcode174">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -246,13 +244,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode149" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leetcode154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode154" />
       <module name="algorithms-learning" />
@@ -276,6 +267,13 @@
     </configuration>
     <configuration name="Leetcode172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode172" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode174" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode174" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -346,19 +344,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode149" />
       <item itemvalue="Application.Leetcode154" />
       <item itemvalue="Application.Leetcode168" />
       <item itemvalue="Application.Leetcode171" />
       <item itemvalue="Application.Leetcode172" />
+      <item itemvalue="Application.Leetcode174" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode174" />
         <item itemvalue="Application.Leetcode172" />
         <item itemvalue="Application.Leetcode171" />
         <item itemvalue="Application.Leetcode168" />
         <item itemvalue="Application.Leetcode154" />
-        <item itemvalue="Application.Leetcode149" />
       </list>
     </recent_temporary>
   </component>
@@ -424,14 +422,7 @@
       <workItem from="1584542375397" duration="308000" />
       <workItem from="1586665970063" duration="83609000" />
       <workItem from="1589375732307" duration="103384000" />
-      <workItem from="1590374720556" duration="39387000" />
-    </task>
-    <task id="LOCAL-00002" summary="Update locks and high concurrency !">
-      <created>1568807183657</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1568807183657</updated>
+      <workItem from="1590374720556" duration="42946000" />
     </task>
     <task id="LOCAL-00003" summary="continue Update locks and high concurrency!">
       <created>1586666619275</created>
@@ -769,7 +760,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590652821272</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="the task of leetcode, keep updating.">
+      <created>1590657517816</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1590657517816</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1534,6 +1532,16 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode172.java</url>
           <line>17</line>
           <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode172.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode174.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="382" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
