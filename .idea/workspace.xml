@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode155.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode218.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode218.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode97">
+  <component name="RunManager" selected="Application.Leetcode154">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -247,15 +253,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode89" />
+    <configuration name="Leetcode149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode149" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode90" />
+    <configuration name="Leetcode154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode154" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -347,19 +353,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode89" />
-      <item itemvalue="Application.Leetcode90" />
       <item itemvalue="Application.Leetcode91" />
       <item itemvalue="Application.Leetcode93" />
       <item itemvalue="Application.Leetcode97" />
+      <item itemvalue="Application.Leetcode149" />
+      <item itemvalue="Application.Leetcode154" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode154" />
+        <item itemvalue="Application.Leetcode149" />
         <item itemvalue="Application.Leetcode97" />
         <item itemvalue="Application.Leetcode93" />
         <item itemvalue="Application.Leetcode91" />
-        <item itemvalue="Application.Leetcode90" />
-        <item itemvalue="Application.Leetcode89" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +431,7 @@
       <workItem from="1584542375397" duration="308000" />
       <workItem from="1586665970063" duration="83609000" />
       <workItem from="1589375732307" duration="103384000" />
-      <workItem from="1590374720556" duration="22693000" />
+      <workItem from="1590374720556" duration="31453000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -749,7 +755,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590548611772</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="the task of leetcode, keep updating.">
+      <created>1590564682336</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1590564682336</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1469,6 +1482,16 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode97.java</url>
           <line>21</line>
           <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode149.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode154.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="363" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

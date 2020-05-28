@@ -39,7 +39,7 @@ public class Leetcode144 {
         Stack<TreeNode> stack = new Stack<>();
         List<Integer> list = new ArrayList<>();
         stack.add(root);
-        while(stack != null) {
+        while(!stack.isEmpty()) {
             TreeNode temp = stack.pop();
             list.add(temp.val);
             if (root.right != null) {
