@@ -1,6 +1,7 @@
 package Leetcode;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Leetcode230 {
@@ -25,5 +26,18 @@ public class Leetcode230 {
         inorder(root.left,res);
         res.add(root.val);
         inorder(root.right, res);
+    }
+
+    public int kthSmallest1(TreeNode root, int k) {
+        LinkedList<TreeNode> res = new LinkedList<>();
+        while(true) {
+            while(root!=null) {
+                res.add(root);
+                root = root.left;
+            }
+            root = res.removeLast();
+            if(--k == 0) return root.val;
+            root = root.right;
+        }
     }
     }
