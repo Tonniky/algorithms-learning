@@ -32,5 +32,5 @@ public class Leetcode234 {
         return true;
     }
 
-    
+
     }
