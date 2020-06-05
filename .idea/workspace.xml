@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Aop/ProxyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aop/RealClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aop/RealInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aop/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode242.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aop/BusinessInterfaceProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aop/BusinessObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode238.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Aop/BusinessInterfaceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Aop/BusinessObject.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Leetcode242">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -251,13 +247,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode174" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode174" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leetcode214" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode214" />
       <module name="algorithms-learning" />
@@ -274,6 +263,13 @@
     </configuration>
     <configuration name="Leetcode220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode220" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode242" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -351,19 +347,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode174" />
       <item itemvalue="Application.Leetcode214" />
       <item itemvalue="Application.Leetcode216" />
       <item itemvalue="Application.Leetcode220" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Leetcode242" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode242" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Leetcode220" />
         <item itemvalue="Application.Leetcode216" />
         <item itemvalue="Application.Leetcode214" />
-        <item itemvalue="Application.Leetcode174" />
       </list>
     </recent_temporary>
   </component>
@@ -429,14 +425,7 @@
       <workItem from="1584542375397" duration="308000" />
       <workItem from="1586665970063" duration="83609000" />
       <workItem from="1589375732307" duration="103384000" />
-      <workItem from="1590374720556" duration="93299000" />
-    </task>
-    <task id="LOCAL-00019" summary="the task of leetcode, keep updating.">
-      <created>1589441308141</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1589441308141</updated>
+      <workItem from="1590374720556" duration="95165000" />
     </task>
     <task id="LOCAL-00020" summary="the task of leetcode, keep updating.">
       <created>1589466255889</created>
@@ -774,7 +763,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591086998744</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="the task of leetcode, keep updating.">
+      <created>1591340351960</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1591340351960</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
