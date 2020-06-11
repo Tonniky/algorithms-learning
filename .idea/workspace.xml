@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode404.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -422,14 +423,7 @@
       <workItem from="1584542375397" duration="308000" />
       <workItem from="1586665970063" duration="83609000" />
       <workItem from="1589375732307" duration="103384000" />
-      <workItem from="1590374720556" duration="155202000" />
-    </task>
-    <task id="LOCAL-00042" summary="the task of leetcode, keep updating.">
-      <created>1590478267364</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1590478267364</updated>
+      <workItem from="1590374720556" duration="158313000" />
     </task>
     <task id="LOCAL-00043" summary="the task of leetcode, keep updating.">
       <created>1590482348867</created>
@@ -767,7 +761,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591801403857</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="the task of leetcode, keep updating.">
+      <created>1591846548407</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1591846548408</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1602,6 +1603,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode354.java</url>
           <line>17</line>
           <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode402.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="432" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
