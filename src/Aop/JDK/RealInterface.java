@@ -1,4 +1,4 @@
-package Aop;
+package Aop.JDK;
 
 public interface RealInterface {
     /**
