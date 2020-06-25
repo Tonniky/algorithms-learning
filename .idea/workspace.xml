@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode476.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode477.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode476.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -248,7 +249,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Leetcode476" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode476" />
       <module name="algorithms-learning" />
       <method v="2">
@@ -351,15 +352,14 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.Leetcode476" />
       <item itemvalue="Application.TestMutex" />
       <item itemvalue="Application.ThreadPoolExecutorTest" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="JUnit.Leetcode in algorithms-learning" />
-      <item itemvalue="Application.Leetcode476" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leetcode476" />
         <item itemvalue="JUnit.Leetcode in algorithms-learning" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.ThreadPoolExecutorTest" />
@@ -430,14 +430,7 @@
       <workItem from="1586665970063" duration="83609000" />
       <workItem from="1589375732307" duration="103384000" />
       <workItem from="1590374720556" duration="209844000" />
-      <workItem from="1592916580892" duration="735000" />
-    </task>
-    <task id="LOCAL-00057" summary="the task of leetcode, keep updating.">
-      <created>1590765179850</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1590765179850</updated>
+      <workItem from="1592916580892" duration="9052000" />
     </task>
     <task id="LOCAL-00058" summary="the task of leetcode, keep updating.">
       <created>1590930084263</created>
@@ -775,7 +768,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592913146992</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="the task of leetcode, keep updating.">
+      <created>1592918833278</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1592918833279</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1611,90 +1611,11 @@
           <line>9</line>
           <option name="timeStamp" value="434" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Leetcode476.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="435" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>algorithms-learning</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.3137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
