@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode492.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxProbability5211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/numIdenticalPairs5460.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/numSub5461.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Aop/ProxyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Aop/RealClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Aop/RealInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Aop/Solution.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,18 +86,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\springboot\algorithms-learning\src\com\company" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Aop.JDK" />
-      <recent name="Leetcode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\springboot\algorithms-learning\src\Stream" />
       <recent name="F:\springboot\algorithms-learning\src\projectFast" />
       <recent name="F:\springboot\algorithms-learning\src\youhua" />
       <recent name="F:\springboot\algorithms-learning\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Aop.JDK" />
+      <recent name="Leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\springboot\algorithms-learning\src\com\company" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -114,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode476">
+  <component name="RunManager" selected="Application.Leetcode498">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -261,6 +259,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leetcode498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode498" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aop.JDK.Solution" />
       <module name="algorithms-learning" />
@@ -362,9 +367,11 @@
       <item itemvalue="Application.ThreadPoolExecutorTest" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="JUnit.Leetcode in algorithms-learning" />
+      <item itemvalue="Application.Leetcode498" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode498" />
         <item itemvalue="JUnit.Leetcode in algorithms-learning" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.ThreadPoolExecutorTest" />
@@ -437,14 +444,7 @@
       <workItem from="1590374720556" duration="209844000" />
       <workItem from="1592916580892" duration="17181000" />
       <workItem from="1593679405648" duration="46000" />
-      <workItem from="1594440047333" duration="2590000" />
-    </task>
-    <task id="LOCAL-00060" summary="the task of leetcode, keep updating.">
-      <created>1590937271948</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1590937271949</updated>
+      <workItem from="1594440047333" duration="15459000" />
     </task>
     <task id="LOCAL-00061" summary="the task of leetcode, keep updating.">
       <created>1590996738558</created>
@@ -782,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593092653952</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="the task of leetcode, keep updating.">
+      <created>1594447177024</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1594447177025</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
