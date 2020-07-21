@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/longestCommonPrefix14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxArea11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/fourSum18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/letterCombinations17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/threeSumClosest15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode33.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -442,14 +444,7 @@
       <workItem from="1592916580892" duration="17181000" />
       <workItem from="1593679405648" duration="46000" />
       <workItem from="1594440047333" duration="15786000" />
-      <workItem from="1595235550211" duration="10703000" />
-    </task>
-    <task id="LOCAL-00064" summary="the task of leetcode, keep updating.">
-      <created>1591080859443</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1591080859444</updated>
+      <workItem from="1595235550211" duration="15691000" />
     </task>
     <task id="LOCAL-00065" summary="the task of leetcode, keep updating.">
       <created>1591083186602</created>
@@ -787,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595254157023</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="the task of leetcode, keep updating.">
+      <created>1595256768411</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1595256768411</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

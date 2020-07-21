@@ -8,8 +8,8 @@ public class Leetcode33 {
         int l = 0, r = len -1;
         while (l <= r) {
             int mid = l + (r - l) / 2;
-            if(nums[mid] == target) return mid;
-            if(nums[l] <= nums[mid]) {
+            if (nums[mid] == target) return mid;
+            if (nums[l] <= nums[mid]) {
                 if(nums[l] <= target && target < nums[mid]) {
                     r = mid - 1;
                 } else {
