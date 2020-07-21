@@ -1,6 +1,6 @@
 package Leetcode;
 
-public class Leetcode33 {
+public class search33 {
     public int search(int[] nums, int target) {
         int len = nums.length;
         if (len == 0)
@@ -27,10 +27,10 @@ public class Leetcode33 {
     }
 
     public static void main(String[] args) {
-        Leetcode33 out = new Leetcode33();
+        search33 out = new search33();
         int[] nums = {4,5,6,7,0,1,2};
         int target = 0;
         int res = out.search(nums,target);
         res = res;
     }
-    }
+}
