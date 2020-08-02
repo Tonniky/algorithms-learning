@@ -23,7 +23,7 @@ public class Leetcode61 {
             listNode.val = arr.get(i);
             listNode = listNode.next;
         }
-        for(int i = 0; i< arr.size()-k; k++) {
+        for(int i = 0; i < arr.size()-k; k++) {
             listNode.val = arr.get(i);
             listNode = listNode.next;
         }

@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/jump45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/multiply43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/groupAnagrams49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxSubArray53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/permute46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/quickMul50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode132.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode132.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode132.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode61.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +68,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RlRfXcigvSNbV5Z2Hu44a7YIUr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -80,7 +94,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3137931" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -109,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode498">
+  <component name="RunManager" selected="Application.demo">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -263,6 +277,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leetcode66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode66" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aop.JDK.Solution" />
       <module name="algorithms-learning" />
@@ -270,15 +291,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMutex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.TestMutex" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPoolExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ThreadPoolExecutorTest" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.demo" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -360,19 +374,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Leetcode476" />
-      <item itemvalue="Application.TestMutex" />
-      <item itemvalue="Application.ThreadPoolExecutorTest" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Leetcode498" />
+      <item itemvalue="Application.Leetcode66" />
+      <item itemvalue="Application.demo" />
       <item itemvalue="JUnit.Leetcode in algorithms-learning" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Leetcode66" />
         <item itemvalue="Application.Leetcode498" />
         <item itemvalue="JUnit.Leetcode in algorithms-learning" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.ThreadPoolExecutorTest" />
-        <item itemvalue="Application.TestMutex" />
       </list>
     </recent_temporary>
   </component>
@@ -442,14 +456,12 @@
       <workItem from="1592916580892" duration="17181000" />
       <workItem from="1593679405648" duration="46000" />
       <workItem from="1594440047333" duration="15786000" />
-      <workItem from="1595235550211" duration="29070000" />
-    </task>
-    <task id="LOCAL-00070" summary="the task of leetcode, keep updating.">
-      <created>1591346121368</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1591346121368</updated>
+      <workItem from="1595235550211" duration="54186000" />
+      <workItem from="1595572096614" duration="669000" />
+      <workItem from="1595981788002" duration="1115000" />
+      <workItem from="1595984704007" duration="41000" />
+      <workItem from="1595984771703" duration="1005000" />
+      <workItem from="1596254838444" duration="1371000" />
     </task>
     <task id="LOCAL-00071" summary="the task of leetcode, keep updating.">
       <created>1591352012081</created>
@@ -787,7 +799,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595324371823</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="the task of leetcode, keep updating.">
+      <created>1595326056239</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1595326056239</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -839,6 +858,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Processing of submitted multi-threaded and stream streams" />
     <MESSAGE value="Update locks and high concurrency !" />
     <MESSAGE value="continue Update locks and high concurrency!" />
@@ -1628,8 +1648,18 @@
           <line>38</line>
           <option name="timeStamp" value="436" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/demo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="digits[0]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

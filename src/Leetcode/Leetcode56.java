@@ -1,6 +1,5 @@
 package Leetcode;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Leetcode56 {
@@ -15,6 +14,7 @@ public class Leetcode56 {
         int j = 0;
         for (int i = 0; i < intervals.length; ++i) {
            if(intervals[i][1] <= curR) {
+
            } else if (intervals[i][0] <= curR) {
                 curR = intervals[i][1];
             } else {
