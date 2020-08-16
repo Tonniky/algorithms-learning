@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/findMinArrowShots452.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/readBinaryWatch401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/trapRainWater407.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/eraseOverlapIntervals435.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/findMaximumXOR421.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/findRightInterval436.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/levelOrder429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/minMutation433.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/splitArray410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/package1/test8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PredictTheWinner486">
+  <component name="RunManager" selected="Application.findSubsequences491">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -370,8 +386,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PredictTheWinner486" />
         <item itemvalue="Application.findSubsequences491" />
+        <item itemvalue="Application.PredictTheWinner486" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.Leetcode66" />
         <item itemvalue="Application.Leetcode498" />
@@ -449,14 +465,7 @@
       <workItem from="1595981788002" duration="1115000" />
       <workItem from="1595984704007" duration="41000" />
       <workItem from="1595984771703" duration="1005000" />
-      <workItem from="1596254838444" duration="22525000" />
-    </task>
-    <task id="LOCAL-00074" summary="the task of leetcode, keep updating.">
-      <created>1591362496320</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1591362496320</updated>
+      <workItem from="1596254838444" duration="32656000" />
     </task>
     <task id="LOCAL-00075" summary="the task of leetcode, keep updating.">
       <created>1591364437642</created>
@@ -794,7 +803,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597044999002</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="the task of leetcode, keep updating.">
+      <created>1597050679146</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1597050679146</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1637,41 +1653,6 @@
           <option name="timeStamp" value="436" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/findSubsequences491.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="439" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/findSubsequences491.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="440" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/findSubsequences491.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="441" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/findSubsequences491.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="443" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/findSubsequences491.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="444" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/findSubsequences491.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="445" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/findSubsequences491.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="446" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/PredictTheWinner486.java</url>
           <line>22</line>
           <option name="timeStamp" value="447" />
@@ -1690,6 +1671,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/PredictTheWinner486.java</url>
           <line>26</line>
           <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/sa-jdi.jar!/sun/jvm/hotspot/classfile/ClassLoaderData.class</url>
+          <line>24</line>
+          <option name="timeStamp" value="451" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
