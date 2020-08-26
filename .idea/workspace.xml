@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/eraseOverlapIntervals435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/findMaximumXOR421.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/findRightInterval436.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/levelOrder429.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/minMutation433.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/splitArray410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/MinStack155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/findBottomLeftValue513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/myPow50.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/demo/package1/Test9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/demo/package1/test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/demo/package1/test10.java" afterDir="false" />
@@ -22,6 +19,7 @@
       <change afterPath="$PROJECT_DIR$/src/demo/package1/test7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/demo/package1/test8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/trap42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/trap42.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -466,13 +464,10 @@
       <workItem from="1595984704007" duration="41000" />
       <workItem from="1595984771703" duration="1005000" />
       <workItem from="1596254838444" duration="32656000" />
-    </task>
-    <task id="LOCAL-00075" summary="the task of leetcode, keep updating.">
-      <created>1591364437642</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1591364437642</updated>
+      <workItem from="1597570310041" duration="882000" />
+      <workItem from="1597917660456" duration="2706000" />
+      <workItem from="1598167904263" duration="1002000" />
+      <workItem from="1598418250563" duration="2409000" />
     </task>
     <task id="LOCAL-00076" summary="the task of leetcode, keep updating.">
       <created>1591365300586</created>
@@ -810,7 +805,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597050679146</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="the task of leetcode, keep updating.">
+      <created>1597570329528</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1597570329528</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

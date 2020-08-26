@@ -7,6 +7,9 @@ public class trap42 {
             return 0;
         int ans = 0;
         int size = height.length;
+        if (size < 3) {
+            return 0;
+        }
         int[] left_max = new int[size];
         int[] right_max = new int[size];
         left_max[0] = height[0];
