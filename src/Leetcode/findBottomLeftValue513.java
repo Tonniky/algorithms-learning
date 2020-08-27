@@ -28,5 +28,4 @@ public class findBottomLeftValue513 {
         }
         return res;
     }
-    int m = Integer.MAX_VALUE;
     }
