@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/IsBalancedBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/add1656.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/constructArr1657.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/findContinuousSequence1646.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/firstUniqChar1635.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/isStraight1652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/lowestCommonAncestor1659.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/lowestCommonAncestor1660.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxDepth1641.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxProfit1654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxSlidingWindow1649.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxValue1632.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/mergeTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/reverseLeftWords1648.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/reverseListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/reverseWords1647.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/singleNumber1644.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/singleNumbers1643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/strToInt1658.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/topK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/topKFrequent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/findBottomLeftValue513.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/findBottomLeftValue513.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.findSubsequences491">
+  <component name="RunManager" selected="Application.test">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -259,13 +280,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode498" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leetcode66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode66" />
       <module name="algorithms-learning" />
@@ -289,6 +303,13 @@
     </configuration>
     <configuration name="findSubsequences491" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.findSubsequences491" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.test" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -360,19 +381,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Leetcode476" />
-      <item itemvalue="Application.Leetcode498" />
       <item itemvalue="Application.Leetcode66" />
       <item itemvalue="Application.demo" />
       <item itemvalue="Application.findSubsequences491" />
       <item itemvalue="Application.PredictTheWinner486" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.findSubsequences491" />
         <item itemvalue="Application.PredictTheWinner486" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.Leetcode66" />
-        <item itemvalue="Application.Leetcode498" />
       </list>
     </recent_temporary>
   </component>
@@ -451,14 +472,9 @@
       <workItem from="1597570310041" duration="882000" />
       <workItem from="1597917660456" duration="2706000" />
       <workItem from="1598167904263" duration="1002000" />
-      <workItem from="1598418250563" duration="2595000" />
-    </task>
-    <task id="LOCAL-00077" summary="the task of leetcode, keep updating.">
-      <created>1591441730415</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1591441730416</updated>
+      <workItem from="1598418250563" duration="3011000" />
+      <workItem from="1599045649995" duration="13412000" />
+      <workItem from="1599134913840" duration="13431000" />
     </task>
     <task id="LOCAL-00078" summary="the task of leetcode, keep updating.">
       <created>1591502399192</created>
@@ -796,7 +812,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598451149515</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="the task of leetcode, keep updating.">
+      <created>1598508921341</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1598508921341</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1662,6 +1685,11 @@
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/sa-jdi.jar!/sun/jvm/hotspot/classfile/ClassLoaderData.class</url>
           <line>24</line>
           <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/test.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="452" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
