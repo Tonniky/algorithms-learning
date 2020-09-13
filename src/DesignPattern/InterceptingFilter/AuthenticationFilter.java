@@ -1,0 +1,9 @@
+package DesignPattern.InterceptingFilter;
+
+
+public class AuthenticationFilter implements Filter {
+    @Override
+    public void execute(String request) {
+        System.out.printf("Authentication request" + request);
+    }
+}

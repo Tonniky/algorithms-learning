@@ -2,14 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Sort/bubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Sort/insertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Sort/selectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/majorityElement1624.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxSubArray1627.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/ReaderXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/XmlReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/AbstractLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/ChainOfLoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/FactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/AndCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/Criteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/CriteriaFemale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/CriteriaMale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/CriteriaSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/FilterPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/OrCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/DebugFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/FilterChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/FilterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/FilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/SingleTon/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/SingleTon/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/SingleTon/Singleton3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/levelOrder1617.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +122,7 @@
     <property name="jmeter.home" value="" />
     <property name="jmeter.override" value="false" />
     <property name="js-jscs-nodeInterpreter" value="E:\qudong\node.js\node.exe" />
-    <property name="last_opened_file_path" value="G:/javacode/leetcodeProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DesignPattern" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,18 +136,21 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\springboot\algorithms-learning\src\com\company" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DesignPattern.AbstractFactory" />
+      <recent name="DesignPattern.SingleTon" />
+      <recent name="Aop.JDK" />
+      <recent name="Leetcode" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DesignPattern" />
       <recent name="F:\springboot\algorithms-learning\src\Stream" />
       <recent name="F:\springboot\algorithms-learning\src\projectFast" />
       <recent name="F:\springboot\algorithms-learning\src\youhua" />
       <recent name="F:\springboot\algorithms-learning\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Aop.JDK" />
-      <recent name="Leetcode" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\springboot\algorithms-learning\src\com\company" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -119,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShellSort">
+  <component name="RunManager" selected="Application.FilterTest">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -259,6 +305,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.InterceptingFilter.FilterTest" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leetcode476" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode476" />
       <module name="algorithms-learning" />
@@ -275,13 +328,6 @@
     </configuration>
     <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Sort.ShellSort" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.demo" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -367,19 +413,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Leetcode476" />
-      <item itemvalue="Application.demo" />
       <item itemvalue="Application.findSubsequences491" />
       <item itemvalue="Application.PredictTheWinner486" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.ShellSort" />
+      <item itemvalue="Application.FilterTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilterTest" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.findSubsequences491" />
         <item itemvalue="Application.PredictTheWinner486" />
-        <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -460,14 +506,9 @@
       <workItem from="1598167904263" duration="1002000" />
       <workItem from="1598418250563" duration="3011000" />
       <workItem from="1599045649995" duration="13412000" />
-      <workItem from="1599134913840" duration="21111000" />
-    </task>
-    <task id="LOCAL-00079" summary="the task of leetcode, keep updating.">
-      <created>1591520742623</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1591520742623</updated>
+      <workItem from="1599134913840" duration="23209000" />
+      <workItem from="1599476144226" duration="1212000" />
+      <workItem from="1599738276052" duration="9870000" />
     </task>
     <task id="LOCAL-00080" summary="the task of leetcode, keep updating.">
       <created>1591526159220</created>
@@ -805,7 +846,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599232731280</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="the task of leetcode, keep updating.">
+      <created>1599287960386</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1599287960386</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
