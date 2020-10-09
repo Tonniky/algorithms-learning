@@ -2,57 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/ReaderXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/XmlReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/AbstractLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/ChainOfLoggerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/ErrorLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/ChainResponsibility/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/FactoryPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/AndCriteria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/Criteria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/CriteriaFemale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/CriteriaMale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/CriteriaSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/FilterPatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/OrCriteria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FilterPattern/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/AuthenticationFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/DebugFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/FilterChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/FilterManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/FilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/InterceptingFilter/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/RealImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/SingleTon/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/SingleTon/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/SingleTon/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/levelOrder1617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxProductPath5521.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/recordSpaces5519.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,60 +117,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FilterTest">
-    <configuration default="true" type="AndroidRunConfigurationType">
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <Java />
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType">
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <Java />
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-      </Profilers>
+  <component name="RunManager" selected="Application.changeFormatNumber923">
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="">
@@ -295,14 +205,65 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="FilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -319,13 +280,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredictTheWinner486" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.PredictTheWinner486" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Sort.ShellSort" />
       <module name="algorithms-learning" />
@@ -333,8 +287,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findSubsequences491" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.findSubsequences491" />
+    <configuration name="changeFormatNumber923" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.changeFormatNumber923" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxProductPath5521" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.maxProductPath5521" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -347,19 +308,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -368,7 +316,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -402,30 +350,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode476" />
-      <item itemvalue="Application.findSubsequences491" />
-      <item itemvalue="Application.PredictTheWinner486" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.ShellSort" />
       <item itemvalue="Application.FilterTest" />
+      <item itemvalue="Application.Leetcode476" />
+      <item itemvalue="Application.ShellSort" />
+      <item itemvalue="Application.changeFormatNumber923" />
+      <item itemvalue="Application.maxProductPath5521" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.changeFormatNumber923" />
+        <item itemvalue="Application.maxProductPath5521" />
         <item itemvalue="Application.FilterTest" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.findSubsequences491" />
-        <item itemvalue="Application.PredictTheWinner486" />
       </list>
     </recent_temporary>
   </component>
@@ -508,14 +457,10 @@
       <workItem from="1599045649995" duration="13412000" />
       <workItem from="1599134913840" duration="23209000" />
       <workItem from="1599476144226" duration="1212000" />
-      <workItem from="1599738276052" duration="9870000" />
-    </task>
-    <task id="LOCAL-00080" summary="the task of leetcode, keep updating.">
-      <created>1591526159220</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1591526159220</updated>
+      <workItem from="1599738276052" duration="10236000" />
+      <workItem from="1600182252190" duration="5624000" />
+      <workItem from="1600570527708" duration="13846000" />
+      <workItem from="1601707804013" duration="154000" />
     </task>
     <task id="LOCAL-00081" summary="the task of leetcode, keep updating.">
       <created>1591587365567</created>
@@ -853,7 +798,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599287960386</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="the task of leetcode, keep updating.">
+      <created>1599990182256</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1599990182256</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1729,6 +1681,61 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Sort/ShellSort.java</url>
           <line>28</line>
           <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/maxProductPath5521.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="483" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
