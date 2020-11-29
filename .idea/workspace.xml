@@ -413,8 +413,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.Leetcode476" />
-      <item itemvalue="Application.bestTeamScore5545" />
       <item itemvalue="Application.changeFormatNumber923" />
+      <item itemvalue="Application.bestTeamScore5545" />
       <item itemvalue="Application.findUnsortedSubarray322" />
       <item itemvalue="Application.findUnsortedSubarray581" />
       <item itemvalue="Application.maxProductPath5521" />
