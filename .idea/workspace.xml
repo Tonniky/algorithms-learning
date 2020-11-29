@@ -20,18 +20,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:v1.1" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/bestTeamScore5545.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxLengthBetweenEqualCharacters5543.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode78$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/Leetcode78$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/META-INF/algorithms-learning.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +65,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="v1.1" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -78,6 +75,13 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Tonniky/algorithms-learning" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1RlRfXcigvSNbV5Z2Hu44a7YIUr" />
   <component name="ProjectLevelVcsManager">
@@ -111,7 +115,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3137931" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -131,7 +135,7 @@
       <recent name="F:\springboot\algorithms-learning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.bestTeamScore5545">
+  <component name="RunManager" selected="Application.slowestKey5546">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <option name="arquillianRunConfiguration">
         <value>
@@ -280,22 +284,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.InterceptingFilter.FilterTest" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leetcode476" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode476" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Sort.ShellSort" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -323,6 +313,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="findUnsortedSubarray322" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.findUnsortedSubarray322" />
+      <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findUnsortedSubarray581" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.findUnsortedSubarray581" />
+      <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="maxProductPath5521" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.maxProductPath5521" />
       <module name="algorithms-learning" />
@@ -330,9 +346,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.test" />
+    <configuration name="slowestKey5546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.slowestKey5546" />
       <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -391,20 +413,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.Leetcode476" />
-      <item itemvalue="Application.changeFormatNumber923" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.ShellSort" />
-      <item itemvalue="Application.FilterTest" />
-      <item itemvalue="Application.maxProductPath5521" />
       <item itemvalue="Application.bestTeamScore5545" />
+      <item itemvalue="Application.changeFormatNumber923" />
+      <item itemvalue="Application.findUnsortedSubarray322" />
+      <item itemvalue="Application.findUnsortedSubarray581" />
+      <item itemvalue="Application.maxProductPath5521" />
+      <item itemvalue="Application.slowestKey5546" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.slowestKey5546" />
+        <item itemvalue="Application.findUnsortedSubarray581" />
+        <item itemvalue="Application.findUnsortedSubarray322" />
         <item itemvalue="Application.bestTeamScore5545" />
         <item itemvalue="Application.maxProductPath5521" />
-        <item itemvalue="Application.FilterTest" />
-        <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -492,13 +514,6 @@
       <workItem from="1600182252190" duration="5624000" />
       <workItem from="1600570527708" duration="13846000" />
       <workItem from="1601707804013" duration="154000" />
-    </task>
-    <task id="LOCAL-00082" summary="the task of leetcode, keep updating.">
-      <created>1591591854010</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1591591854010</updated>
     </task>
     <task id="LOCAL-00083" summary="the task of leetcode, keep updating.">
       <created>1591604320421</created>
@@ -836,7 +851,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602236030766</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="the task of leetcode, keep updating.">
+      <created>1603072751944</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1603072751944</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -863,7 +885,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="v1.1" />
                       </list>
                     </value>
                   </entry>
@@ -912,58 +934,85 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602988861149" />
-    <state width="412" height="466" key="DebuggerActiveHint" timestamp="1603072388676">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state x="762" y="400" key="#xdebugger.evaluate" timestamp="1603596798904">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="762" y="400" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1603596798904" />
+    <state width="434" height="496" key="DebuggerActiveHint" timestamp="1603596976517">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="434" height="496" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1603596767400" />
     <state width="412" height="466" key="DebuggerActiveHint/0.23.1680.987@0.23.1680.987" timestamp="1603072388676" />
-    <state width="1638" height="329" key="GridCell.Tab.0.bottom" timestamp="1603072153686">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="434" height="496" key="DebuggerActiveHint/0.23.1680.988@0.23.1680.988" timestamp="1603596976517" />
+    <state width="819" height="363" key="GridCell.Tab.0.bottom" timestamp="1605243703371">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664692" />
-    <state width="1638" height="329" key="GridCell.Tab.0.bottom/0.23.1680.987@0.23.1680.987" timestamp="1603072153686" />
-    <state width="1638" height="329" key="GridCell.Tab.0.center" timestamp="1603072153685">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="819" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969589" />
+    <state width="1638" height="329" key="GridCell.Tab.0.bottom/0.23.1680.987@0.23.1680.987" timestamp="1603072760143" />
+    <state width="819" height="363" key="GridCell.Tab.0.bottom/0.23.1680.993@0.23.1680.993" timestamp="1605243703371" />
+    <state width="819" height="363" key="GridCell.Tab.0.center" timestamp="1605243703370">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664691" />
-    <state width="1638" height="329" key="GridCell.Tab.0.center/0.23.1680.987@0.23.1680.987" timestamp="1603072153685" />
-    <state width="1638" height="329" key="GridCell.Tab.0.left" timestamp="1603072153685">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="819" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969588" />
+    <state width="1638" height="329" key="GridCell.Tab.0.center/0.23.1680.987@0.23.1680.987" timestamp="1603072760142" />
+    <state width="819" height="363" key="GridCell.Tab.0.center/0.23.1680.993@0.23.1680.993" timestamp="1605243703370" />
+    <state width="819" height="363" key="GridCell.Tab.0.left" timestamp="1605243703369">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664690" />
-    <state width="1638" height="329" key="GridCell.Tab.0.left/0.23.1680.987@0.23.1680.987" timestamp="1603072153685" />
-    <state width="1638" height="329" key="GridCell.Tab.0.right" timestamp="1603072153686">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="819" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969586" />
+    <state width="1638" height="329" key="GridCell.Tab.0.left/0.23.1680.987@0.23.1680.987" timestamp="1603072760142" />
+    <state width="819" height="363" key="GridCell.Tab.0.left/0.23.1680.993@0.23.1680.993" timestamp="1605243703369" />
+    <state width="819" height="363" key="GridCell.Tab.0.right" timestamp="1605243703370">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664691" />
-    <state width="1638" height="329" key="GridCell.Tab.0.right/0.23.1680.987@0.23.1680.987" timestamp="1603072153686" />
-    <state width="1638" height="329" key="GridCell.Tab.1.bottom" timestamp="1603072154080">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="819" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969588" />
+    <state width="1638" height="329" key="GridCell.Tab.0.right/0.23.1680.987@0.23.1680.987" timestamp="1603072760143" />
+    <state width="819" height="363" key="GridCell.Tab.0.right/0.23.1680.993@0.23.1680.993" timestamp="1605243703370" />
+    <state width="819" height="363" key="GridCell.Tab.1.bottom" timestamp="1605243703375">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664693" />
-    <state width="1638" height="329" key="GridCell.Tab.1.bottom/0.23.1680.987@0.23.1680.987" timestamp="1603072154080" />
-    <state width="1638" height="329" key="GridCell.Tab.1.center" timestamp="1603072154079">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="819" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969705" />
+    <state width="1638" height="329" key="GridCell.Tab.1.bottom/0.23.1680.987@0.23.1680.987" timestamp="1603072760145" />
+    <state width="819" height="363" key="GridCell.Tab.1.bottom/0.23.1680.993@0.23.1680.993" timestamp="1605243703375" />
+    <state width="819" height="363" key="GridCell.Tab.1.center" timestamp="1605243703372">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664692" />
-    <state width="1638" height="329" key="GridCell.Tab.1.center/0.23.1680.987@0.23.1680.987" timestamp="1603072154079" />
-    <state width="1638" height="329" key="GridCell.Tab.1.left" timestamp="1603072154079">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="819" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969704" />
+    <state width="1638" height="329" key="GridCell.Tab.1.center/0.23.1680.987@0.23.1680.987" timestamp="1603072760144" />
+    <state width="819" height="363" key="GridCell.Tab.1.center/0.23.1680.993@0.23.1680.993" timestamp="1605243703372" />
+    <state width="819" height="363" key="GridCell.Tab.1.left" timestamp="1605243703371">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664692" />
-    <state width="1638" height="329" key="GridCell.Tab.1.left/0.23.1680.987@0.23.1680.987" timestamp="1603072154079" />
-    <state width="1638" height="329" key="GridCell.Tab.1.right" timestamp="1603072154080">
-      <screen x="0" y="23" width="1680" height="987" />
+    <state width="819" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969703" />
+    <state width="1638" height="329" key="GridCell.Tab.1.left/0.23.1680.987@0.23.1680.987" timestamp="1603072760144" />
+    <state width="819" height="363" key="GridCell.Tab.1.left/0.23.1680.993@0.23.1680.993" timestamp="1605243703371" />
+    <state width="819" height="363" key="GridCell.Tab.1.right" timestamp="1605243703374">
+      <screen x="0" y="23" width="1680" height="993" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602989664693" />
-    <state width="1638" height="329" key="GridCell.Tab.1.right/0.23.1680.987@0.23.1680.987" timestamp="1603072154080" />
-    <state x="328" y="106" key="SettingsEditor" timestamp="1602989655934">
+    <state width="819" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969704" />
+    <state width="1638" height="329" key="GridCell.Tab.1.right/0.23.1680.987@0.23.1680.987" timestamp="1603072760145" />
+    <state width="819" height="363" key="GridCell.Tab.1.right/0.23.1680.993@0.23.1680.993" timestamp="1605243703374" />
+    <state x="328" y="106" key="SettingsEditor" timestamp="1606628789535">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602989655934" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1602235945286">
+    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1606628789535" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1603277208605">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1602235945286" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1603277208605" />
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.987@0.23.1680.987" timestamp="1603072790204" />
+    <state x="641" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603276848447">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="641" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1603276848447" />
+    <state x="208" y="147" key="new project wizard" timestamp="1603634039816">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="208" y="147" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1603634039816" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1603622866148">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1603622866148" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1855,7 +1904,32 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/bestTeamScore5545.java</url>
           <line>39</line>
-          <option name="timeStamp" value="488" />
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/slowestKey5546.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/slowestKey5546.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/slowestKey5546.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="510" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/slowestKey5546.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="511" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/slowestKey5546.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="512" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
