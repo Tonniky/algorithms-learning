@@ -3,13 +3,13 @@ package group_interview.baidu;
 public class findCiclePosition {
 
     public ListNode {
-        public int val;
+        int val;
 
         public ListNode (int data) {
             this.val = data;
         }
 
-        public ListNode next;
+        ListNode next;
     }
 
 
