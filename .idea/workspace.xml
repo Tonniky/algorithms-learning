@@ -26,13 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/group_interview/baidu/topK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_interview/bigo/DoubleSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_interview/bigo/StringToDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_interview/byteDance/IsBalanceBinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_interview/pdd/reverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_interview/yuanfudao/Rand10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_interview/zhaoyinwangluo/IpParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group_interview/baidu/findCiclePosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group_interview/baidu/isCricle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,9 +70,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Pull.Settings">
-    <option name="BRANCH" value="v1.1" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -526,13 +518,6 @@
       <workItem from="1600570527708" duration="13846000" />
       <workItem from="1601707804013" duration="154000" />
     </task>
-    <task id="LOCAL-00083" summary="the task of leetcode, keep updating.">
-      <created>1591604320421</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1591604320422</updated>
-    </task>
     <task id="LOCAL-00084" summary="the task of leetcode, keep updating.">
       <created>1591629752866</created>
       <option name="number" value="00084" />
@@ -869,7 +854,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603072751944</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="the task of leetcode, keep updating.">
+      <created>1607922895771</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1607922895772</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -939,91 +931,6 @@
     <MESSAGE value="Update some method about sort." />
     <MESSAGE value="the task of leetcode, keep updating." />
     <option name="LAST_COMMIT_MESSAGE" value="the task of leetcode, keep updating." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="304" y="187" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602988861149">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="304" y="187" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602988861149" />
-    <state x="762" y="400" key="#xdebugger.evaluate" timestamp="1603596798904">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="762" y="400" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1603596798904" />
-    <state width="434" height="496" key="DebuggerActiveHint" timestamp="1603596976517">
-      <screen x="0" y="23" width="1680" height="988" />
-    </state>
-    <state width="434" height="496" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1603596767400" />
-    <state width="412" height="466" key="DebuggerActiveHint/0.23.1680.987@0.23.1680.987" timestamp="1603072388676" />
-    <state width="434" height="496" key="DebuggerActiveHint/0.23.1680.988@0.23.1680.988" timestamp="1603596976517" />
-    <state width="819" height="363" key="GridCell.Tab.0.bottom" timestamp="1605243703371">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969589" />
-    <state width="1638" height="329" key="GridCell.Tab.0.bottom/0.23.1680.987@0.23.1680.987" timestamp="1603072760143" />
-    <state width="819" height="363" key="GridCell.Tab.0.bottom/0.23.1680.993@0.23.1680.993" timestamp="1605243703371" />
-    <state width="819" height="363" key="GridCell.Tab.0.center" timestamp="1605243703370">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969588" />
-    <state width="1638" height="329" key="GridCell.Tab.0.center/0.23.1680.987@0.23.1680.987" timestamp="1603072760142" />
-    <state width="819" height="363" key="GridCell.Tab.0.center/0.23.1680.993@0.23.1680.993" timestamp="1605243703370" />
-    <state width="819" height="363" key="GridCell.Tab.0.left" timestamp="1605243703369">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969586" />
-    <state width="1638" height="329" key="GridCell.Tab.0.left/0.23.1680.987@0.23.1680.987" timestamp="1603072760142" />
-    <state width="819" height="363" key="GridCell.Tab.0.left/0.23.1680.993@0.23.1680.993" timestamp="1605243703369" />
-    <state width="819" height="363" key="GridCell.Tab.0.right" timestamp="1605243703370">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969588" />
-    <state width="1638" height="329" key="GridCell.Tab.0.right/0.23.1680.987@0.23.1680.987" timestamp="1603072760143" />
-    <state width="819" height="363" key="GridCell.Tab.0.right/0.23.1680.993@0.23.1680.993" timestamp="1605243703370" />
-    <state width="819" height="363" key="GridCell.Tab.1.bottom" timestamp="1605243703375">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969705" />
-    <state width="1638" height="329" key="GridCell.Tab.1.bottom/0.23.1680.987@0.23.1680.987" timestamp="1603072760145" />
-    <state width="819" height="363" key="GridCell.Tab.1.bottom/0.23.1680.993@0.23.1680.993" timestamp="1605243703375" />
-    <state width="819" height="363" key="GridCell.Tab.1.center" timestamp="1605243703372">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969704" />
-    <state width="1638" height="329" key="GridCell.Tab.1.center/0.23.1680.987@0.23.1680.987" timestamp="1603072760144" />
-    <state width="819" height="363" key="GridCell.Tab.1.center/0.23.1680.993@0.23.1680.993" timestamp="1605243703372" />
-    <state width="819" height="363" key="GridCell.Tab.1.left" timestamp="1605243703371">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969703" />
-    <state width="1638" height="329" key="GridCell.Tab.1.left/0.23.1680.987@0.23.1680.987" timestamp="1603072760144" />
-    <state width="819" height="363" key="GridCell.Tab.1.left/0.23.1680.993@0.23.1680.993" timestamp="1605243703371" />
-    <state width="819" height="363" key="GridCell.Tab.1.right" timestamp="1605243703374">
-      <screen x="0" y="23" width="1680" height="993" />
-    </state>
-    <state width="819" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1603596969704" />
-    <state width="1638" height="329" key="GridCell.Tab.1.right/0.23.1680.987@0.23.1680.987" timestamp="1603072760145" />
-    <state width="819" height="363" key="GridCell.Tab.1.right/0.23.1680.993@0.23.1680.993" timestamp="1605243703374" />
-    <state x="328" y="106" key="SettingsEditor" timestamp="1606628789535">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1606628789535" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1603277208605">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1603277208605" />
-    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.987@0.23.1680.987" timestamp="1603072790204" />
-    <state x="641" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603276848447">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="641" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1603276848447" />
-    <state x="208" y="147" key="new project wizard" timestamp="1603634039816">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="208" y="147" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1603634039816" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1603622866148">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1603622866148" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
