@@ -2,7 +2,7 @@ package group_interview.baidu;
 
 public class findCiclePosition {
 
-    public ListNode {
+    public class ListNode {
         int val;
 
         public ListNode (int data) {
