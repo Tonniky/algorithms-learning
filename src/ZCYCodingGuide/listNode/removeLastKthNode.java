@@ -28,8 +28,7 @@ public class removeLastKthNode {
                 k++;
             }
             cur.next = cur.next.next;
-            return cur;
         }
-        return null;
+        return head;
     }
 }
