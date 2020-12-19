@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/removeLastKthNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/printCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/removeByRatio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/removeLastKthPnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/removeMiddleNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -518,20 +519,6 @@
       <workItem from="1600570527708" duration="13846000" />
       <workItem from="1601707804013" duration="154000" />
     </task>
-    <task id="LOCAL-00091" summary="the task of leetcode, keep updating.">
-      <created>1591846548407</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1591846548408</updated>
-    </task>
-    <task id="LOCAL-00092" summary="the task of leetcode, keep updating.">
-      <created>1591858447490</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1591858447491</updated>
-    </task>
     <task id="LOCAL-00093" summary="the task of leetcode, keep updating.">
       <created>1591873518678</created>
       <option name="number" value="00093" />
@@ -861,7 +848,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608348707959</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="the task of leetcode, keep updating.">
+      <created>1608350974164</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1608350974164</updated>
+    </task>
+    <task id="LOCAL-00141" summary="the task of leetcode, keep updating.">
+      <created>1608351078820</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1608351078820</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
