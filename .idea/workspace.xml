@@ -26,7 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/group_interview/baidu/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosBothLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosNoLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group_interview/meituan/findMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -517,13 +519,6 @@
       <workItem from="1600570527708" duration="13846000" />
       <workItem from="1601707804013" duration="154000" />
     </task>
-    <task id="LOCAL-00087" summary="the task of leetcode, keep updating.">
-      <created>1591704307161</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1591704307161</updated>
-    </task>
     <task id="LOCAL-00088" summary="the task of leetcode, keep updating.">
       <created>1591706917307</created>
       <option name="number" value="00088" />
@@ -860,7 +855,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608299113445</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="the task of leetcode, keep updating.">
+      <created>1608302201038</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1608302201038</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
