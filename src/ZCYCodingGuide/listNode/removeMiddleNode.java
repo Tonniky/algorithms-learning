@@ -6,6 +6,7 @@ public class removeMiddleNode {
         public ListNode (int data) {
             this.val = data;
         }
+        public ListNode next;
     }
 
     public ListNode removeMiddleNode (ListNode node) {
