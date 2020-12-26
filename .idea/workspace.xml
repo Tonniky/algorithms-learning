@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/Contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/Genetate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/Coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -518,13 +519,6 @@
       <workItem from="1600570527708" duration="13846000" />
       <workItem from="1601707804013" duration="154000" />
     </task>
-    <task id="LOCAL-00096" summary="the task of leetcode, keep updating.">
-      <created>1591933032943</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1591933032943</updated>
-    </task>
     <task id="LOCAL-00097" summary="the task of leetcode, keep updating.">
       <created>1591953937416</created>
       <option name="number" value="00097" />
@@ -861,7 +855,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608438737865</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="the task of leetcode, keep updating.">
+      <created>1608960913689</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1608960913689</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
