@@ -3,13 +3,17 @@ package group_interview.bigo;
 import com.sun.tools.corba.se.idl.IncludeGen;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 public class DoubleSum {
 
-    public List<Integer> doubleSum(int[] arr) {
+    public List<Integer> doubleSum(int[] arr) throws Exception{
         if (arr == null || arr.length < 2) {
-            return new Exception();
+            try {
+                return new ArrayList<Integer>();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
 
         int len = arr.length;  // n * log(n)

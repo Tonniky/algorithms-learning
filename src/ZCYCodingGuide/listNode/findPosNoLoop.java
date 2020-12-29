@@ -3,15 +3,15 @@ package ZCYCodingGuide.listNode;
 public class findPosNoLoop {
 
     public class ListNode{
-        public class val;
-        public ListNode (int data){
+        public int val;
+        public  ListNode(int data){
             this.val = data;
         }
         public ListNode next;
     }
 
 
-    public ListNode findPosNoLoop (ListNOde node1, ListNode node2) {
+    public ListNode findPosNoLoop (ListNode node1, ListNode node2) {
         if (node1 == null || node2 == null) {
             return null;
         }

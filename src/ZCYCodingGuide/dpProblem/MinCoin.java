@@ -31,7 +31,7 @@ public class MinCoin {
 
 
     public int minCoin2(int[] arr, int aim) {
-        for (arr == null || arr.length == 0 || aim <= 0) {
+        if (arr == null || arr.length == 0 || aim <= 0) {
             return 0;
         }
         int len = arr.length;

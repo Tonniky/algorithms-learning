@@ -15,19 +15,20 @@ public class topK {
                 adjust(arr, k, k);  // 进行调整
             }
         }
+        return arr;
     }
 
-    public swap(int[] arr[i], int arr[j]) {
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
+    public void swap(int arr1, int arr2) {
+        int temp = arr1;
+        arr1 = arr2;
+        arr2 = temp;
     }
 
     // 小堆的调整
-    public void buildHeap(int arr, int k) {
+    public void buildHeap(int[] arr, int k) {
         int len = arr.length;
         for (int i = (k - 1)/2; i >= 0; i--) { // 进行调整
-            adjust(arr, i, minIndex);
+            adjust(arr, i, len);
         }
     }
 

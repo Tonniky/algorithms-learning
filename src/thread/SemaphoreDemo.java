@@ -3,7 +3,7 @@ package thread;
 import java.util.concurrent.Semaphore;
 
 public class SemaphoreDemo {
-//使用信号量控制只有固定线程来操作
+    //使用信号量控制只有固定线程来操作
     public static void main(String[] args) {
         Semaphore windows = new Semaphore(5);  // 声明5个窗口
 

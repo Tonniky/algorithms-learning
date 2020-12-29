@@ -22,7 +22,7 @@ public class FutureTaskThread {
         thread.start();*/
 
         try {
-            Thread.sleep(1000);
+            Thread.sleep(1000); // 休眠1s钟
         } catch (InterruptedException e1) {
             e1.printStackTrace();
         }
@@ -48,6 +48,6 @@ class Task implements Callable<Integer> {
         int sum = 0;
         for(int i=0;i<100;i++)
             sum += i;
-        return sum;
+        return sum; // call会有返回值
     }
 }

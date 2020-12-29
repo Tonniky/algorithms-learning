@@ -26,10 +26,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinCoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode10000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode10000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/deleteNode450.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/deleteNode450.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/furthestBuilding1642.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/furthestBuilding1642.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/isPossible659.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/isPossible659.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/matrixRankTransform5156.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/matrixRankTransform5156.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/inOrderUnRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/inOrderUnRecur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/posOrderUnRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/posOrderUnRecur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/preOrderUnRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/preOrderUnRecur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinCoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosBothLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosBothLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosNoLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosNoLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/reversePart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/reversePart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/printCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/printCommonPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/baidu/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/topK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/baidu/topK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/bigo/DoubleSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/bigo/DoubleSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/bigo/StringToDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/bigo/StringToDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/FutureTaskThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/FutureTaskThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/SemaphoreDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +158,7 @@
       <recent name="F:\springboot\algorithms-learning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.slowestKey5546">
+  <component name="RunManager" selected="JUnit.StampedLockTest6.test1">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <option name="arquillianRunConfiguration">
         <value>
@@ -295,19 +314,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bestTeamScore5545" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.bestTeamScore5545" />
-      <module name="algorithms-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="changeFormatNumber923" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -343,13 +349,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxProductPath5521" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.maxProductPath5521" />
-      <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="slowestKey5546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.slowestKey5546" />
       <module name="algorithms-learning" />
@@ -359,6 +358,42 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thread" />
+      <option name="MAIN_CLASS_NAME" value="thread.CyclicBarrierDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StampedLockTest6.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thread" />
+      <option name="MAIN_CLASS_NAME" value="thread.StampedLockTest6" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -418,19 +453,19 @@
     <list>
       <item itemvalue="Application.Leetcode476" />
       <item itemvalue="Application.changeFormatNumber923" />
-      <item itemvalue="Application.bestTeamScore5545" />
       <item itemvalue="Application.findUnsortedSubarray322" />
       <item itemvalue="Application.findUnsortedSubarray581" />
-      <item itemvalue="Application.maxProductPath5521" />
       <item itemvalue="Application.slowestKey5546" />
+      <item itemvalue="JUnit.CyclicBarrierDemo.test" />
+      <item itemvalue="JUnit.StampedLockTest6.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StampedLockTest6.test1" />
+        <item itemvalue="JUnit.CyclicBarrierDemo.test" />
         <item itemvalue="Application.slowestKey5546" />
         <item itemvalue="Application.findUnsortedSubarray581" />
         <item itemvalue="Application.findUnsortedSubarray322" />
-        <item itemvalue="Application.bestTeamScore5545" />
-        <item itemvalue="Application.maxProductPath5521" />
       </list>
     </recent_temporary>
   </component>
@@ -518,13 +553,6 @@
       <workItem from="1600182252190" duration="5624000" />
       <workItem from="1600570527708" duration="13846000" />
       <workItem from="1601707804013" duration="154000" />
-    </task>
-    <task id="LOCAL-00097" summary="the task of leetcode, keep updating.">
-      <created>1591953937416</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1591953937416</updated>
     </task>
     <task id="LOCAL-00098" summary="the task of leetcode, keep updating.">
       <created>1591963943562</created>
@@ -862,7 +890,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608960913689</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="the task of leetcode, keep updating.">
+      <created>1608995798103</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1608995798103</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1223,7 +1258,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>38</line>
+          <line>40</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1253,12 +1288,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>37</line>
+          <line>39</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>36</line>
+          <line>38</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

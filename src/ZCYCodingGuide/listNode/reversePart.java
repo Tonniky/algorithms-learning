@@ -4,7 +4,7 @@ public class reversePart {
 
     public class ListNode {
         public int val;
-        public class ListNode (int data) {
+        public ListNode (int data) {
             this.val = data;
         }
         public ListNode next;

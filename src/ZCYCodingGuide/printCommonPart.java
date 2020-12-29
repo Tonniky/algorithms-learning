@@ -1,6 +1,6 @@
 package ZCYCodingGuide;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class printCommonPart {
 

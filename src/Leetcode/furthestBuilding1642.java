@@ -1,4 +1,5 @@
 package Leetcode;
+import java.util.*;
 
 public class furthestBuilding1642 {
 
@@ -26,7 +27,7 @@ public class furthestBuilding1642 {
 
 
     private int ans;
-    public int furthestBuilding(int[] heights, int bricks, int ladders) {
+    public int furthestBuilding2(int[] heights, int bricks, int ladders) {
         dfs(heights, 0, bricks, ladders);
         return ans;
     }

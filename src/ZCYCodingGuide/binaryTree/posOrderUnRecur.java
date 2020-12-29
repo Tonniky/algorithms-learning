@@ -1,7 +1,7 @@
 package ZCYCodingGuide.binaryTree;
 
 import java.util.ArrayList;
-import java.util.Stack;
+import java.util.*;
 
 public class posOrderUnRecur {
     public class TreeNode {
@@ -31,7 +31,7 @@ public class posOrderUnRecur {
                 stack1.push(treeNode);
             }
         }
-        List<ListNode> res = new ArrayList<>();
+        List<TreeNode> res = new ArrayList<>();
     while (!stack2.isEmpty()) {
         res.add(stack2.pop());
         }

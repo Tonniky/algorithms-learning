@@ -1,4 +1,5 @@
 package ZCYCodingGuide.listNode;
+import java.util.*;
 
 public class findPosBothLoop {
 
@@ -7,6 +8,7 @@ public class findPosBothLoop {
         public ListNode (int data) {
             this.val = data;
         }
+        public ListNode next;
     }
 
     public ListNode findPosBothLoop(ListNode head1, ListNode loop1, ListNode head2, ListNode loop2) {

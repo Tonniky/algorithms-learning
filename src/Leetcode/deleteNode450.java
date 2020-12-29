@@ -2,6 +2,15 @@ package Leetcode;
 
 public class deleteNode450 {
 
+    public class TreeNode {
+        public int val;
+        public TreeNode (int data) {
+            this.val = data;
+        }
+        public TreeNode left;
+        public TreeNode right;
+    }
+
     // 删除掉该节点 。
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) {
@@ -25,15 +34,15 @@ public class deleteNode450 {
         return root;
     }
 
-    public int preNode (TreeNode root) {
-        TreeNode root = root.left;
+    public int preNode (TreeNode node) {
+        TreeNode root = node.left;
         if (root != null)
             root = root.right;
         return root.val;
     }
 
-    public TreeNode nextNode(TreeNode root) {
-        TreeNode root = root.right;
+    public int nextNode(TreeNode node) {
+        TreeNode root = node.right;
         if (root != null)
             root = root.left;
         return root.val;
@@ -46,7 +55,7 @@ public class deleteNode450 {
     }
 
 
-    public TreeNode deleteNode(TreeNode root, int key) {
+    public TreeNode deleteNode2(TreeNode root, int key) {
         if (root != null) return null;
         // if key > root.val, delete node in root.right. Otherwise delete node in root.left.
         if (key > root.val) {

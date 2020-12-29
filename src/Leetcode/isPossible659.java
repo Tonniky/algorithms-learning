@@ -1,4 +1,5 @@
 package Leetcode;
+import java.util.*;
 
 public class isPossible659 {
     public boolean isPossible(int[] nums) {
@@ -24,7 +25,7 @@ public class isPossible659 {
             } else {
                 if (dp1 + dp2 > cnt) return false;
                 int left = cnt - dp1 - dp2;
-                int keep = min(dp3, left);
+                int keep = Math.min(dp3, left);
                 dp3 = keep + dp2;
                 dp2 = dp1;
                 dp1 = left - keep;

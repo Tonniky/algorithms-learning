@@ -1,9 +1,11 @@
 package group_interview.bigo;
 
+import java.util.*;
+
 public class StringToDouble {
     public double insett(String str) {
         if (str == null || str.length() == 0) {
-            return new Exception();
+            return 1.1;
         }
         int len = str.length();
         char[] ch = str.toCharArray();
@@ -13,8 +15,7 @@ public class StringToDouble {
                 ch[start++] = ch[i];
             }
         }
-        String s = String.valueOf(ch).reverse().substring(0,len - start - 1);
-        return isValidMath(s)
+        return isValidMath(s);
     }
 
     public boolean isMath(char ch) {
