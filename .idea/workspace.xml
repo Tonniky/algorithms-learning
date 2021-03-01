@@ -26,29 +26,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="the task of leetcode, keep updating.">
-      <change afterPath="$PROJECT_DIR$/src/thread/MultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/CheckPermutation0102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/canPermutePalindrome0104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/countArrangement526.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/oneEditAway0105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/replaceSpaces0103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/Mianshi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group_interview/beikezhaofang/LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group_interview/beikezhaofang/StackToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group_interview/netEase/findMaxLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group_interview/soul/IntParseDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode10000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode10000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/deleteNode450.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/deleteNode450.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/furthestBuilding1642.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/furthestBuilding1642.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/isPossible659.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/isPossible659.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/matrixRankTransform5156.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/matrixRankTransform5156.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/inOrderUnRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/inOrderUnRecur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/posOrderUnRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/posOrderUnRecur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/preOrderUnRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/binaryTree/preOrderUnRecur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/dpProblem/MinCoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosBothLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosBothLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosNoLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/findPosNoLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/reversePart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/listNode/reversePart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZCYCodingGuide/printCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/printCommonPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/baidu/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/topK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/baidu/topK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_interview/bigo/DoubleSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/bigo/DoubleSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/group_interview/bigo/StringToDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_interview/bigo/StringToDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/CountDownLatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/FutureTaskThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/FutureTaskThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/SemaphoreDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,18 +127,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3137931" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\springboot\algorithms-learning\src\com\company" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="DesignPattern.AbstractFactory" />
-      <recent name="DesignPattern.SingleTon" />
-      <recent name="Aop.JDK" />
-      <recent name="Leetcode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/DesignPattern" />
       <recent name="F:\springboot\algorithms-learning\src\Stream" />
@@ -157,19 +137,68 @@
       <recent name="F:\springboot\algorithms-learning\src\youhua" />
       <recent name="F:\springboot\algorithms-learning\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\springboot\algorithms-learning\src\com\company" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="group_interview.netEase" />
+      <recent name="group_interview.beikezhaofang" />
+      <recent name="DesignPattern.AbstractFactory" />
+      <recent name="DesignPattern.SingleTon" />
+      <recent name="Aop.JDK" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.StampedLockTest6.test1">
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="">
@@ -246,65 +275,14 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <Java />
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
-      <option name="TESTING_TYPE" value="0" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <Java />
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-      </Profilers>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="Leetcode476" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -358,6 +336,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -440,15 +431,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Application.Leetcode476" />
@@ -469,7 +459,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -553,13 +543,14 @@
       <workItem from="1600182252190" duration="5624000" />
       <workItem from="1600570527708" duration="13846000" />
       <workItem from="1601707804013" duration="154000" />
-    </task>
-    <task id="LOCAL-00098" summary="the task of leetcode, keep updating.">
-      <created>1591963943562</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1591963943562</updated>
+      <workItem from="1611494284987" duration="188000" />
+      <workItem from="1611494529635" duration="598000" />
+      <workItem from="1611497149188" duration="598000" />
+      <workItem from="1611498310865" duration="1587000" />
+      <workItem from="1611974163404" duration="3984000" />
+      <workItem from="1612254982178" duration="49000" />
+      <workItem from="1613908079465" duration="6647000" />
+      <workItem from="1614257765504" duration="993000" />
     </task>
     <task id="LOCAL-00099" summary="the task of leetcode, keep updating.">
       <created>1591973060981</created>
@@ -897,11 +888,18 @@
       <option name="project" value="LOCAL" />
       <updated>1608995798103</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="the task of leetcode, keep updating.">
+      <created>1609253075967</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1609253075967</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -968,6 +966,12 @@
     <MESSAGE value="the task of leetcode, keep updating." />
     <option name="LAST_COMMIT_MESSAGE" value="the task of leetcode, keep updating." />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="161" key="SettingsEditor" timestamp="1614609132810">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1614609132810" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1885,6 +1889,16 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/slowestKey5546.java</url>
           <line>22</line>
           <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs61b/LinkedListDeque.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs61b/LinkedListDeque.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="515" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
