@@ -11,7 +11,7 @@ public class reversePart {
     }
 
     public ListNode reversePart (ListNode node, int from, int to) {
-        int len;
+        int len = 0;
         ListNode fPre = null;
         ListNode tNext = null;
         while (node != null) {
@@ -26,7 +26,7 @@ public class reversePart {
         }
 
         ListNode node1 = fPre == null ? node : fPre.next;
-        Node node2 = node1.next;
+        ListNode node2 = node1.next;
         ListNode nextNode = null;
         node1.next = tNext;
         while (node2 != tNext) {

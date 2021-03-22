@@ -11,7 +11,7 @@ public class reverseList {
     }
 
     public ListNode reverseList(ListNode node) {
-        if (head == null || head.next == null) {
+        if (node == null || node.next == null) {
             return node;
         }
 
@@ -19,10 +19,10 @@ public class reverseList {
         ListNode nextNode = null;
         while (node != null) {
             nextNode = node.next;
-            cur.next = preNode;
+            node.next = preNode;
             preNode = node;
             node = nextNode;
         }
-        return pre;
+        return preNode;
     }
 }

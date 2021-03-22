@@ -4,9 +4,9 @@ public class findMax {
 
     public int findMax(int[] arr) {
         if (arr == null || arr.length < 3) {
-            return new Exception();
+            return 0;
         }
-        return find(arr, 0, len - 1);
+        return find(arr, 0,  arr.length - 1);
     }
 
     public int find (int[] arr, int left, int right) {
@@ -20,5 +20,6 @@ public class findMax {
         if(arr[mid - 1] > arr[mid] && arr[mid] > arr[mid + 1]) {
             find(arr, left, mid);
         }
+        return mid;
     }
 }

@@ -8,8 +8,8 @@ public class inOrderUnRecur {
         public TreeNode (int data) {
             this.val = data;
         }
-        public preOrderUnRecur.TreeNode left;
-        public preOrderUnRecur.TreeNode rigtht;
+        public TreeNode left;
+        public TreeNode rigtht;
     }
 
     public List<TreeNode> inOrderUnRecur (TreeNode treeNode) {
@@ -31,7 +31,6 @@ public class inOrderUnRecur {
 //                }
             }
         }
-
-
+        return stack;
     }
 }

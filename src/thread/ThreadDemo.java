@@ -1,7 +1,5 @@
 package thread;
 
-import org.junit.runner.notification.RunListener;
-
 public class ThreadDemo {
 
     public static void main(String[] args) {
@@ -12,18 +10,19 @@ public class ThreadDemo {
         new RunThread2().start();
     }
 
-    public class RunThread1 extends Thread{
+    public static class RunThread1 extends Thread{
 
         @Override
         public synchronized void run() {
             this.getThreadGroup().getName();
             Thread.currentThread().getName();
-            Thread.clss.notify();
+            Thread.class.notify();
         }
     }
 
-    public class RunThread2 extends Thread {
+    public static class RunThread2 extends Thread {
 
+        @Override
         public synchronized void run() {
             try {
                 Thread.class.wait();

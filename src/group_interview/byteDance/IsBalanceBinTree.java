@@ -1,7 +1,5 @@
 package group_interview.byteDance;
 
-import javax.swing.tree.TreeNode;
-
 // 是否是平衡二叉树
 public class IsBalanceBinTree {
 
@@ -28,6 +26,6 @@ public class IsBalanceBinTree {
         if (tree == null) {
             return 0;
         }
-        return Math.max(tree.left, tree.right) + 1;
+        return Math.max(getTreeDeepth(tree.left), getTreeDeepth(tree.right)) + 1;
     }
 }

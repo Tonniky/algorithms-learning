@@ -6,6 +6,7 @@ public class removeLastKthNode {
         public ListNode (int data) {
             this.val = data;
         }
+        public ListNode next;
     }
 
     public ListNode removeLastKthNode(ListNode node, int k) {
@@ -13,9 +14,9 @@ public class removeLastKthNode {
             return null;
         }
         ListNode cur = node;
-        while (cur1 != null) {
+        while (cur != null) {
             k--;
-            cur1 = cur1.next;
+            cur = cur.next;
         }
         if (k == 0) {
             cur = node.next;
@@ -29,6 +30,6 @@ public class removeLastKthNode {
             }
             cur.next = cur.next.next;
         }
-        return head;
+        return node;
     }
 }

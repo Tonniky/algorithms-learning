@@ -10,7 +10,7 @@ public class StackToList {
         public Stack<Integer> stack1;
         public Stack<Integer> stack2;
 
-    public LinkedList {
+    public  LinkedList() {
         stack1 = new Stack<>();
         stack2 = new Stack<>();
     }

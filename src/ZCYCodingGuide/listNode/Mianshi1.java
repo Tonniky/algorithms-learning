@@ -1,5 +1,8 @@
 package ZCYCodingGuide.listNode;
 
+
+import java.util.Arrays;
+
 public class Mianshi1 {
 
 
@@ -15,7 +18,7 @@ public class Mianshi1 {
         for (int i = 1; i < len; i++) {
             if (cur == arr[i]) {
                 continue;
-            } else if (cur + 1 = arr[i]) {
+            } else if (cur + 1 == arr[i]) {
                 temp++;
                 cur = arr[i];
             } else if (cur + 1 != arr[i]) {

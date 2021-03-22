@@ -17,7 +17,7 @@ public class MinCoin {
             }
         }
         int left = 0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < len; i++) {
             for (int j = 1; j < aim; j++) {
                 left = max;
                 if (j - arr[i] >= 0 && dp[i][j - arr[i]] != max) {
@@ -26,7 +26,7 @@ public class MinCoin {
                 dp[i][j] = Math.min(left, dp[i - 1][j]);
             }
         }
-        return dp[n - 1][aim] != max ? dp[n - 1][aim] : -1;
+        return dp[len - 1][aim] != max ? dp[len - 1][aim] : -1;
     }
 
 

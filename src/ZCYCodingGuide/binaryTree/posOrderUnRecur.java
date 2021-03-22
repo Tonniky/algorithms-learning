@@ -23,7 +23,7 @@ public class posOrderUnRecur {
         stack1.push(treeNode);
         while(!stack1.isEmpty()) {
             treeNode = stack1.pop();
-            stack2.push(s2);
+            stack2.push(treeNode);
             if (treeNode.left != null) {
                 stack1.push(treeNode);
             }

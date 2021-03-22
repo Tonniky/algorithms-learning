@@ -3,7 +3,7 @@ package group_interview.bigo;
 import java.util.*;
 
 public class StringToDouble {
-    public double insett(String str) {
+    public double insett(String str) throws Exception {
         if (str == null || str.length() == 0) {
             return 1.1;
         }
@@ -15,7 +15,7 @@ public class StringToDouble {
                 ch[start++] = ch[i];
             }
         }
-        return isValidMath(s);
+        return isValidMath(str);
     }
 
     public boolean isMath(char ch) {
@@ -29,9 +29,9 @@ public class StringToDouble {
         return false;
     }
 
-    public double isValidMath(String str) {
+    public double isValidMath(String str) throws Exception {
         if (isNumeric(str)) {
-            return new Exception();
+            throw new Exception();
         }
         return Double.parseDouble(str);
     }
@@ -51,7 +51,7 @@ public class StringToDouble {
 
     public List<Integer> getResults (int[] arr) {
         if (arr == null || arr.length < 2) {
-            return new Expression();
+            return (List<Integer>) new Exception();
         }
 
         Map<Integer, Integer> map =  new HashMap<>();
@@ -64,12 +64,12 @@ public class StringToDouble {
         }
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
-        for (integer arr : map.keySet()) {
-            if (map.get(arr) > max) {
-                max = map.get(arr);
+        for (Integer ar : map.keySet()) {
+            if (map.get(ar) > max) {
+                max = map.get(ar);
             }
-            if (map.get(arr) < max) {
-                min = map.get(arr);
+            if (map.get(ar) < max) {
+                min = map.get(ar);
             }
         }
 
@@ -77,6 +77,6 @@ public class StringToDouble {
         res.add(max);
         res.add(min);
 
-        retrun res;
+        return res;
     }
 }

@@ -11,11 +11,11 @@ public class removeMiddleNode {
 
     public ListNode removeMiddleNode (ListNode node) {
         if (node == null || node.next == null) {
-            return head;
+            return node;
         }
 
-        if (head.next.next == null) {
-            return head.next;
+        if (node.next.next == null) {
+            return node.next;
         }
 
         ListNode pre = node;
@@ -25,6 +25,6 @@ public class removeMiddleNode {
             cur = cur.next.next;
         }
         pre.next = pre.next.next;
-        return head;
+        return node;
     }
 }

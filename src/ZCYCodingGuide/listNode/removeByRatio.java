@@ -7,6 +7,7 @@ public class removeByRatio {
         public ListNode (int data) {
             this.val = data;
         }
+        public ListNode next;
     }
 
     public ListNode removeByRatio(ListNode head, int a, int b) {
@@ -19,14 +20,14 @@ public class removeByRatio {
             cur = cur.next;
             len++;
         }
-        int index = Math.ceil((double)(a * len) / (double) b);
-        if (n == 1) {
+        int index =(int) Math.ceil((double)((a * len)/b));
+        if (index == 1) {
             head = head.next;
         }
 
-        if (n > 1) {
+        if (index > 1) {
             cur = head;
-            while (--n != 1) {
+            while (--index != 1) {
                 cur = cur.next;
             }
             cur.next = cur.next.next;

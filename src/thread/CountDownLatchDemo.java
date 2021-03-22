@@ -25,7 +25,7 @@ public class CountDownLatchDemo {
                 try {
                     System.out.println("子线程"+Thread.currentThread().getName()+"正在执行");
                     Thread.sleep(3000);
-                    Thread.
+//                    Thread.
                     System.out.println("子线程"+Thread.currentThread().getName()+"执行完毕");
                     latch.countDown();
                 } catch (InterruptedException e) {

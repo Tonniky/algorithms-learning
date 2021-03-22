@@ -1,5 +1,7 @@
 package group_interview.netEase;
 
+import java.util.Arrays;
+
 public class findMaxLength {
 
 
@@ -15,11 +17,11 @@ public class findMaxLength {
         for (int i = 1; i < len; i++) {
             if (cur == arr[i]) {
                 continue;
-            } else if (cur + 1 = arr[i]) {
+            } else if (cur + 1 == arr[i]) {
                 temp++;
                 cur = arr[i];
             } else if (cur + 1 != arr[i]) {
-                res = java.lang.Math.max(temp, res);
+                res = Math.max(temp, res);
                 temp = 1;
                 cur = arr[i];
             }

@@ -35,7 +35,7 @@ public class isPalindrome1 {
 
     public boolean isPalindrome2(ListNode node) {
         if (node == null) {
-            return fasle;
+            return false;
         }
 
         ListNode node1 = node.next;
