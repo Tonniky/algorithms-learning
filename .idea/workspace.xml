@@ -21,9 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="feat: update coding!">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/divideString5980.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/minMoves5194.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/changeFormatNumber923.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode206.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="227" />
@@ -67,6 +72,9 @@
         <option value="https://github.com/Tonniky/algorithms-learning" />
       </set>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RlRfXcigvSNbV5Z2Hu44a7YIUr" />
   <component name="ProjectLevelVcsManager">
@@ -121,7 +129,7 @@
       <recent name="F:\springboot\algorithms-learning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.changeFormatNumber923">
+  <component name="RunManager" selected="Application.divideString5980">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -258,6 +266,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leetcode206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode206" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leetcode476" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode476" />
       <module name="algorithms-learning" />
@@ -276,6 +291,13 @@
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Leetcode.changeFormatNumber923" />
+      <module name="algorithms-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divideString5980" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.divideString5980" />
       <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -302,42 +324,6 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CyclicBarrierDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thread" />
-      <option name="MAIN_CLASS_NAME" value="thread.CyclicBarrierDemo" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StampedLockTest6.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thread" />
-      <option name="MAIN_CLASS_NAME" value="thread.StampedLockTest6" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
@@ -401,16 +387,16 @@
       <item itemvalue="Application.PredictTheWinner486" />
       <item itemvalue="Application.minSideJumps5728" />
       <item itemvalue="Application.zigzagLevelOrder103" />
-      <item itemvalue="JUnit.CyclicBarrierDemo.test" />
-      <item itemvalue="JUnit.StampedLockTest6.test1" />
+      <item itemvalue="Application.Leetcode206" />
+      <item itemvalue="Application.divideString5980" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.divideString5980" />
+        <item itemvalue="Application.Leetcode206" />
         <item itemvalue="Application.zigzagLevelOrder103" />
         <item itemvalue="Application.minSideJumps5728" />
         <item itemvalue="Application.PredictTheWinner486" />
-        <item itemvalue="JUnit.StampedLockTest6.test1" />
-        <item itemvalue="JUnit.CyclicBarrierDemo.test" />
       </list>
     </recent_temporary>
   </component>
@@ -526,14 +512,14 @@
       <workItem from="1629029691444" duration="363000" />
       <workItem from="1629083474002" duration="1521000" />
       <workItem from="1629366145554" duration="1931000" />
-      <workItem from="1629622824555" duration="1611000" />
-    </task>
-    <task id="LOCAL-00103" summary="the task of leetcode, keep updating.">
-      <created>1592895837184</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1592895837184</updated>
+      <workItem from="1629622824555" duration="7254000" />
+      <workItem from="1631061731262" duration="8440000" />
+      <workItem from="1634113652300" duration="557000" />
+      <workItem from="1634116778444" duration="284000" />
+      <workItem from="1634121398200" duration="309000" />
+      <workItem from="1635394005446" duration="200000" />
+      <workItem from="1635470858857" duration="474000" />
+      <workItem from="1642235560436" duration="4281000" />
     </task>
     <task id="LOCAL-00104" summary="the task of leetcode, keep updating.">
       <created>1592904296283</created>
@@ -871,7 +857,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628768970744</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="feat: update coding!">
+      <created>1630212270617</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1630212270618</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -945,75 +938,46 @@
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1046" y="250" key="#xdebugger.evaluate" timestamp="1627645844069">
+    <state x="603" y="235" key="#xdebugger.evaluate" timestamp="1642302975202">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="1046" y="250" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1627645844069" />
-    <state x="423" y="96" key="CommitChangelistDialog2" timestamp="1629366163930">
+    <state x="603" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1642302975202" />
+    <state width="412" height="466" key="DebuggerActiveHint" timestamp="1642302665446">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="423" y="96" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1629366163930" />
-    <state width="428" height="466" key="DebuggerActiveHint" timestamp="1626874119870">
+    <state width="412" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1642302665446" />
+    <state width="994" height="203" key="GridCell.Tab.0.bottom" timestamp="1642303111646">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="428" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1626874119870" />
-    <state x="167" y="91" key="DiffContextDialog" timestamp="1629366162408">
+    <state width="994" height="203" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111646" />
+    <state width="994" height="203" key="GridCell.Tab.0.center" timestamp="1642303111645">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="167" y="91" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1629366162408" />
-    <state width="998" height="203" key="GridCell.Tab.0.bottom" timestamp="1629619583611">
+    <state width="994" height="203" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111645" />
+    <state width="994" height="203" key="GridCell.Tab.0.left" timestamp="1642303111644">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="998" height="203" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583611" />
-    <state width="1000" height="296" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1628475767869" />
-    <state width="1002" height="296" key="GridCell.Tab.0.bottom/0.25.1680.967@0.25.1680.967" timestamp="1627472724672" />
-    <state width="998" height="203" key="GridCell.Tab.0.center" timestamp="1629619583609">
+    <state width="994" height="203" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111644" />
+    <state width="994" height="203" key="GridCell.Tab.0.right" timestamp="1642303111646">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="998" height="203" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583609" />
-    <state width="1000" height="296" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1628475767868" />
-    <state width="1002" height="296" key="GridCell.Tab.0.center/0.25.1680.967@0.25.1680.967" timestamp="1627472724671" />
-    <state width="998" height="203" key="GridCell.Tab.0.left" timestamp="1629619583608">
+    <state width="994" height="203" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111646" />
+    <state width="994" height="203" key="GridCell.Tab.1.bottom" timestamp="1642303021579">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="998" height="203" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583608" />
-    <state width="1000" height="296" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1628475767868" />
-    <state width="1002" height="296" key="GridCell.Tab.0.left/0.25.1680.967@0.25.1680.967" timestamp="1627472724670" />
-    <state width="998" height="203" key="GridCell.Tab.0.right" timestamp="1629619583610">
+    <state width="994" height="203" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021579" />
+    <state width="994" height="203" key="GridCell.Tab.1.center" timestamp="1642303021578">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="998" height="203" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583610" />
-    <state width="1000" height="296" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1628475767869" />
-    <state width="1002" height="296" key="GridCell.Tab.0.right/0.25.1680.967@0.25.1680.967" timestamp="1627472724671" />
-    <state width="998" height="203" key="GridCell.Tab.1.bottom" timestamp="1629619583615">
+    <state width="994" height="203" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021578" />
+    <state width="994" height="203" key="GridCell.Tab.1.left" timestamp="1642303021577">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="998" height="203" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583615" />
-    <state width="1000" height="296" key="GridCell.Tab.1.bottom/0.25.1680.964@0.25.1680.964" timestamp="1628475767871" />
-    <state width="1002" height="296" key="GridCell.Tab.1.bottom/0.25.1680.967@0.25.1680.967" timestamp="1627472724675" />
-    <state width="998" height="203" key="GridCell.Tab.1.center" timestamp="1629619583612">
+    <state width="994" height="203" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021577" />
+    <state width="994" height="203" key="GridCell.Tab.1.right" timestamp="1642303021578">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="998" height="203" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583612" />
-    <state width="1000" height="296" key="GridCell.Tab.1.center/0.25.1680.964@0.25.1680.964" timestamp="1628475767870" />
-    <state width="1002" height="296" key="GridCell.Tab.1.center/0.25.1680.967@0.25.1680.967" timestamp="1627472724673" />
-    <state width="998" height="203" key="GridCell.Tab.1.left" timestamp="1629619583611">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="998" height="203" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583611" />
-    <state width="1000" height="296" key="GridCell.Tab.1.left/0.25.1680.964@0.25.1680.964" timestamp="1628475767870" />
-    <state width="1002" height="296" key="GridCell.Tab.1.left/0.25.1680.967@0.25.1680.967" timestamp="1627472724673" />
-    <state width="998" height="203" key="GridCell.Tab.1.right" timestamp="1629619583614">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="998" height="203" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1629619583614" />
-    <state width="1000" height="296" key="GridCell.Tab.1.right/0.25.1680.964@0.25.1680.964" timestamp="1628475767871" />
-    <state width="1002" height="296" key="GridCell.Tab.1.right/0.25.1680.967@0.25.1680.967" timestamp="1627472724674" />
-    <state x="349" y="161" key="SettingsEditor" timestamp="1629622806538">
-      <screen x="0" y="25" width="1680" height="976" />
-    </state>
-    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1625791621592" />
-    <state x="349" y="161" key="SettingsEditor/0.25.1680.976@0.25.1680.976" timestamp="1629622806538" />
+    <state width="994" height="203" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021578" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1976,6 +1940,21 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/zigzagLevelOrder103.java</url>
           <line>92</line>
           <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/divideString5980.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/divideString5980.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/divideString5980.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="546" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
