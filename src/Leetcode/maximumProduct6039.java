@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 
 public class maximumProduct6039 {
 
-    // 
+    //
     public int maximumProduct(int[] nums, int k) {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         int len = nums.length;
