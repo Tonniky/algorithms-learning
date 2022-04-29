@@ -15,19 +15,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/calculate227.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/asteroidCollision735.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/bstFromPreorder1008.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leetcode/carFleet853.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/isValidSerialization331.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/clumsy1006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/isValid1003.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leetcode/maxChunksToSorted769.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/nextGreaterElement496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/nextGreaterElements503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/preorder589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/removeDuplicateLetters316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/maxWidthRamp962.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/minAddToMakeValid921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/nextLargerNodes1019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/sumSubarrayMins907.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/validateStackSequences946.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_4_11_10_41_[Default]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_4_11_10_41__Default_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/isValid20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/isValid20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/findLongestWord524.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/findLongestWord524.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,7 @@
       <recent name="F:\springboot\algorithms-learning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nextGreaterElements503">
+  <component name="RunManager" selected="Application.isValid1003">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -283,8 +284,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculate227" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.calculate227" />
+    <configuration name="asteroidCollision735" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.asteroidCollision735" />
+      <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="carFleet853" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.carFleet853" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
@@ -305,8 +319,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isValid20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.isValid20" />
+    <configuration name="isValid1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.isValid1003" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
@@ -318,8 +332,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nextGreaterElement496" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.nextGreaterElement496" />
+    <configuration name="minAddToMakeValid921" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.minAddToMakeValid921" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
@@ -333,19 +347,6 @@
     </configuration>
     <configuration name="nextGreaterElements503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.nextGreaterElements503" />
-      <module name="algorithms-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="removeDuplicateLetters316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.removeDuplicateLetters316" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
@@ -421,19 +422,19 @@
     <list>
       <item itemvalue="Application.Leetcode476" />
       <item itemvalue="Application.changeFormatNumber923" />
-      <item itemvalue="Application.calculate227" />
-      <item itemvalue="Application.removeDuplicateLetters316" />
-      <item itemvalue="Application.isValid20" />
-      <item itemvalue="Application.nextGreaterElement496" />
       <item itemvalue="Application.nextGreaterElements503" />
+      <item itemvalue="Application.carFleet853" />
+      <item itemvalue="Application.asteroidCollision735" />
+      <item itemvalue="Application.minAddToMakeValid921" />
+      <item itemvalue="Application.isValid1003" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isValid1003" />
+        <item itemvalue="Application.minAddToMakeValid921" />
+        <item itemvalue="Application.asteroidCollision735" />
+        <item itemvalue="Application.carFleet853" />
         <item itemvalue="Application.nextGreaterElements503" />
-        <item itemvalue="Application.nextGreaterElement496" />
-        <item itemvalue="Application.isValid20" />
-        <item itemvalue="Application.removeDuplicateLetters316" />
-        <item itemvalue="Application.calculate227" />
       </list>
     </recent_temporary>
   </component>
@@ -558,14 +559,10 @@
       <workItem from="1635470858857" duration="474000" />
       <workItem from="1642235560436" duration="4281000" />
       <workItem from="1650335054589" duration="2720000" />
-      <workItem from="1650368480968" duration="30778000" />
-    </task>
-    <task id="LOCAL-00106" summary="the task of leetcode, keep updating.">
-      <created>1592918833278</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1592918833279</updated>
+      <workItem from="1650368480968" duration="39010000" />
+      <workItem from="1650763156115" duration="20630000" />
+      <workItem from="1650932585224" duration="33000" />
+      <workItem from="1650933657274" duration="31678000" />
     </task>
     <task id="LOCAL-00107" summary="the task of leetcode, keep updating.">
       <created>1593091269379</created>
@@ -903,7 +900,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650253938133</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="feat: update">
+      <created>1650592390475</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1650592390476</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -979,56 +983,46 @@
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="697" y="85" key="#xdebugger.evaluate" timestamp="1650415572203">
+    <state x="697" y="85" key="#xdebugger.evaluate" timestamp="1650872828421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="697" y="85" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1650415572203" />
-    <state x="603" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1642302975202" />
-    <state width="428" height="302" key="DebuggerActiveHint" timestamp="1650422737977">
+    <state x="697" y="85" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1650872828421" />
+    <state width="428" height="302" key="DebuggerActiveHint" timestamp="1650767308166">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="428" height="302" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1650422737977" />
-    <state width="412" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1642302665446" />
-    <state width="1236" height="149" key="GridCell.Tab.0.bottom" timestamp="1650453324659">
+    <state width="428" height="302" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1650767308166" />
+    <state width="618" height="41" key="GridCell.Tab.0.bottom" timestamp="1650872787925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1650453324659" />
-    <state width="994" height="203" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111646" />
-    <state width="1236" height="149" key="GridCell.Tab.0.center" timestamp="1650453324659">
+    <state width="618" height="41" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1650872787925" />
+    <state width="618" height="41" key="GridCell.Tab.0.center" timestamp="1650872787925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1650453324659" />
-    <state width="994" height="203" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111645" />
-    <state width="1236" height="149" key="GridCell.Tab.0.left" timestamp="1650453324659">
+    <state width="618" height="41" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1650872787925" />
+    <state width="618" height="41" key="GridCell.Tab.0.left" timestamp="1650872787925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1650453324659" />
-    <state width="994" height="203" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111644" />
-    <state width="1236" height="149" key="GridCell.Tab.0.right" timestamp="1650453324659">
+    <state width="618" height="41" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1650872787925" />
+    <state width="618" height="41" key="GridCell.Tab.0.right" timestamp="1650872787925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1650453324659" />
-    <state width="994" height="203" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1642303111646" />
-    <state width="1236" height="149" key="GridCell.Tab.1.bottom" timestamp="1650453321141">
+    <state width="618" height="41" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1650872787925" />
+    <state width="618" height="41" key="GridCell.Tab.1.bottom" timestamp="1650872788455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1650453321141" />
-    <state width="994" height="203" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021579" />
-    <state width="1236" height="149" key="GridCell.Tab.1.center" timestamp="1650453321141">
+    <state width="618" height="41" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1650872788455" />
+    <state width="618" height="41" key="GridCell.Tab.1.center" timestamp="1650872788455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1650453321141" />
-    <state width="994" height="203" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021578" />
-    <state width="1236" height="149" key="GridCell.Tab.1.left" timestamp="1650453321141">
+    <state width="618" height="41" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1650872788455" />
+    <state width="618" height="41" key="GridCell.Tab.1.left" timestamp="1650872788455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1650453321141" />
-    <state width="994" height="203" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021577" />
-    <state width="1236" height="149" key="GridCell.Tab.1.right" timestamp="1650453321141">
+    <state width="618" height="41" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1650872788455" />
+    <state width="618" height="41" key="GridCell.Tab.1.right" timestamp="1650872788455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="149" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1650453321141" />
-    <state width="994" height="203" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1642303021578" />
+    <state width="618" height="41" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1650872788455" />
     <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1650461650182">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1037,10 +1031,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1649646552261" />
-    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1650555264886">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1651040163998">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1650555264886" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1651040163998" />
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1651112361449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1651112361449" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2158,6 +2156,36 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/nextGreaterElements503.java</url>
           <line>25</line>
           <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/carFleet853.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/carFleet853.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/asteroidCollision735.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="607" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/minAddToMakeValid921.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="615" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/minAddToMakeValid921.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="616" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/isValid1003.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="617" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
