@@ -11,22 +11,15 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:v1.1" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="feat: update coding!">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/digitSum6070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/minimumRounds6071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/nextLargerNodes1019.java" afterDir="false" />
+    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/longestWPI1124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/maximumProduct6039.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/maximumProduct6039.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +57,11 @@
       <list>
         <option value="Tonniky &lt;2249666919@qq.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -130,7 +128,7 @@
       <recent name="F:\springboot\algorithms-learning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.digitSum6070">
+  <component name="RunManager" selected="Application.mctFromLeafValues1130">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -181,6 +179,19 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="">
@@ -257,19 +268,22 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
+    <configuration name="Leetcode476" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode476" />
+      <module name="algorithms-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode476" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Leetcode476" />
+    <configuration name="asteroidCollision735" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.asteroidCollision735" />
       <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -283,50 +297,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countCollisions6028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.countCollisions6028" />
+    <configuration name="isValid1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.isValid1003" />
       <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="digitSum6070" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.digitSum6070" />
+    <configuration name="longestWPI1124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.longestWPI1124" />
       <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="divideString5980" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.divideString5980" />
+    <configuration name="mctFromLeafValues1130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.mctFromLeafValues1130" />
       <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minimizeResult6038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.minimizeResult6038" />
+    <configuration name="minAddToMakeValid921" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.minAddToMakeValid921" />
       <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minimumOperations6005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.minimumOperations6005" />
+    <configuration name="smallestSubsequence1081" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.smallestSubsequence1081" />
       <module name="algorithms-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -373,6 +404,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -383,21 +424,22 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.smallestSubsequence1081" />
       <item itemvalue="Application.Leetcode476" />
       <item itemvalue="Application.changeFormatNumber923" />
-      <item itemvalue="Application.divideString5980" />
-      <item itemvalue="Application.minimumOperations6005" />
-      <item itemvalue="Application.countCollisions6028" />
-      <item itemvalue="Application.minimizeResult6038" />
-      <item itemvalue="Application.digitSum6070" />
+      <item itemvalue="Application.asteroidCollision735" />
+      <item itemvalue="Application.minAddToMakeValid921" />
+      <item itemvalue="Application.isValid1003" />
+      <item itemvalue="Application.longestWPI1124" />
+      <item itemvalue="Application.mctFromLeafValues1130" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.digitSum6070" />
-        <item itemvalue="Application.minimizeResult6038" />
-        <item itemvalue="Application.countCollisions6028" />
-        <item itemvalue="Application.minimumOperations6005" />
-        <item itemvalue="Application.divideString5980" />
+        <item itemvalue="Application.mctFromLeafValues1130" />
+        <item itemvalue="Application.longestWPI1124" />
+        <item itemvalue="Application.isValid1003" />
+        <item itemvalue="Application.minAddToMakeValid921" />
+        <item itemvalue="Application.asteroidCollision735" />
       </list>
     </recent_temporary>
   </component>
@@ -520,23 +562,13 @@
       <workItem from="1634121398200" duration="309000" />
       <workItem from="1635394005446" duration="200000" />
       <workItem from="1635470858857" duration="474000" />
-      <workItem from="1642235560436" duration="6060000" />
-      <workItem from="1642430282020" duration="1818000" />
-      <workItem from="1642943581135" duration="477000" />
-      <workItem from="1644067249474" duration="670000" />
-      <workItem from="1645931883812" duration="1454000" />
-      <workItem from="1647184531283" duration="446000" />
-      <workItem from="1648349144502" duration="1329000" />
-      <workItem from="1649578511224" duration="6293000" />
-      <workItem from="1650118771995" duration="5352000" />
-      <workItem from="1650166912370" duration="2051000" />
-    </task>
-    <task id="LOCAL-00106" summary="the task of leetcode, keep updating.">
-      <created>1592918833278</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1592918833279</updated>
+      <workItem from="1642235560436" duration="4281000" />
+      <workItem from="1650335054589" duration="2720000" />
+      <workItem from="1650368480968" duration="39010000" />
+      <workItem from="1650763156115" duration="20630000" />
+      <workItem from="1650932585224" duration="33000" />
+      <workItem from="1650933657274" duration="31678000" />
+      <workItem from="1651285415856" duration="23506000" />
     </task>
     <task id="LOCAL-00107" summary="the task of leetcode, keep updating.">
       <created>1593091269379</created>
@@ -860,21 +892,28 @@
       <option name="project" value="LOCAL" />
       <updated>1630212270618</updated>
     </task>
-    <task id="LOCAL-00153" summary="feat: update coding!">
-      <created>1642425439280</created>
+    <task id="LOCAL-00153" summary="feat: update leetcode">
+      <created>1649645908002</created>
       <option name="number" value="00153" />
       <option name="presentableId" value="LOCAL-00153" />
       <option name="project" value="LOCAL" />
-      <updated>1642425439280</updated>
+      <updated>1649645908003</updated>
     </task>
-    <task id="LOCAL-00154" summary="feat: update coding!">
-      <created>1649861953214</created>
+    <task id="LOCAL-00154" summary="continue Update locks and high concurrency!">
+      <created>1650253938133</created>
       <option name="number" value="00154" />
       <option name="presentableId" value="LOCAL-00154" />
       <option name="project" value="LOCAL" />
-      <updated>1649861953215</updated>
+      <updated>1650253938133</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="feat: update">
+      <created>1650592390475</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1650592390476</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -940,90 +979,72 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Processing of submitted multi-threaded and stream streams" />
     <MESSAGE value="Update locks and high concurrency !" />
-    <MESSAGE value="continue Update locks and high concurrency!" />
     <MESSAGE value="Update some method about sort." />
     <MESSAGE value="the task of leetcode, keep updating." />
     <MESSAGE value="feat: update coding!" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: update coding!" />
+    <MESSAGE value="feat: update leetcode" />
+    <MESSAGE value="continue Update locks and high concurrency!" />
+    <MESSAGE value="feat: update" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="601" y="0" key="#Auto_Import" timestamp="1650119714427">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="9" y="45" key="#xdebugger.evaluate" timestamp="1651579775475">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="601" y="0" key="#Auto_Import/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650119714427" />
-    <state x="622" y="441" key="#xdebugger.evaluate" timestamp="1649603009380">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="9" y="45" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1651579775475" />
+    <state width="428" height="302" key="DebuggerActiveHint" timestamp="1651579859176">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="603" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1645932167553" />
-    <state x="622" y="441" key="#xdebugger.evaluate/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1649603009380" />
-    <state x="423" y="96" key="CommitChangelistDialog2" timestamp="1649861952919">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="428" height="302" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1651579859176" />
+    <state width="907" height="47" key="GridCell.Tab.0.bottom" timestamp="1651579701728">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="423" y="96" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1642425438955" />
-    <state x="423" y="96" key="CommitChangelistDialog2/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1649861952919" />
-    <state width="420" height="466" key="DebuggerActiveHint" timestamp="1649602169633">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1651579701728" />
+    <state width="907" height="47" key="GridCell.Tab.0.center" timestamp="1651579701728">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="420" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1645932144406" />
-    <state width="420" height="466" key="DebuggerActiveHint/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1649602169633" />
-    <state width="990" height="157" key="GridCell.Tab.0.bottom" timestamp="1650166270858">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1651579701728" />
+    <state width="907" height="47" key="GridCell.Tab.0.left" timestamp="1651579701728">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1646543973670" />
-    <state width="992" height="203" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1647182838163" />
-    <state width="990" height="157" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270858" />
-    <state width="990" height="157" key="GridCell.Tab.0.center" timestamp="1650166270857">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1651579701728" />
+    <state width="907" height="47" key="GridCell.Tab.0.right" timestamp="1651579701728">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1646543973669" />
-    <state width="992" height="203" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1647182838163" />
-    <state width="990" height="157" key="GridCell.Tab.0.center/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270857" />
-    <state width="990" height="157" key="GridCell.Tab.0.left" timestamp="1650166270856">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1651579701728" />
+    <state width="907" height="47" key="GridCell.Tab.1.bottom" timestamp="1651579702709">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1646543973668" />
-    <state width="992" height="203" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1647182838162" />
-    <state width="990" height="157" key="GridCell.Tab.0.left/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270856" />
-    <state width="990" height="157" key="GridCell.Tab.0.right" timestamp="1650166270857">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1651579702709" />
+    <state width="907" height="47" key="GridCell.Tab.1.center" timestamp="1651579702709">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1646543973670" />
-    <state width="992" height="203" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1647182838163" />
-    <state width="990" height="157" key="GridCell.Tab.0.right/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270857" />
-    <state width="990" height="157" key="GridCell.Tab.1.bottom" timestamp="1650166270976">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1651579702709" />
+    <state width="907" height="47" key="GridCell.Tab.1.left" timestamp="1651579702709">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1645932068727" />
-    <state width="992" height="203" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1647182838165" />
-    <state width="990" height="157" key="GridCell.Tab.1.bottom/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270976" />
-    <state width="991" height="203" key="GridCell.Tab.1.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1649578744205" />
-    <state width="990" height="157" key="GridCell.Tab.1.center" timestamp="1650166270975">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1651579702709" />
+    <state width="907" height="47" key="GridCell.Tab.1.right" timestamp="1651579702709">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1645932068726" />
-    <state width="992" height="203" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1647182838164" />
-    <state width="990" height="157" key="GridCell.Tab.1.center/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270975" />
-    <state width="991" height="203" key="GridCell.Tab.1.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1649578744203" />
-    <state width="990" height="157" key="GridCell.Tab.1.left" timestamp="1650166270974">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="907" height="47" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1651579702709" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1650461650182">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1645932068725" />
-    <state width="992" height="203" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1647182838164" />
-    <state width="990" height="157" key="GridCell.Tab.1.left/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270974" />
-    <state width="991" height="203" key="GridCell.Tab.1.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1649578744202" />
-    <state width="990" height="157" key="GridCell.Tab.1.right" timestamp="1650166270975">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1650461650182" />
+    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651285507176">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="992" height="203" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1645932068726" />
-    <state width="992" height="203" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1647182838165" />
-    <state width="990" height="157" key="GridCell.Tab.1.right/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1650166270975" />
-    <state width="991" height="203" key="GridCell.Tab.1.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1649578744204" />
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1649861960861">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1651285507176" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1651040163998">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1642425446132" />
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1649861960861" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1651040163998" />
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1651112361449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1651112361449" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1314,7 +1335,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>40</line>
+          <line>42</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1344,12 +1365,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>39</line>
+          <line>41</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>38</line>
+          <line>40</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1389,12 +1410,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java</url>
-          <line>50</line>
+          <line>60</line>
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java</url>
-          <line>47</line>
+          <line>56</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -2003,64 +2024,282 @@
           <option name="timeStamp" value="546" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimumOperations6005.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/Leetcode/maximumProduct6039.java</url>
+          <line>31</line>
           <option name="timeStamp" value="547" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimumOperations6005.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="548" />
+          <url>file://$PROJECT_DIR$/src/Leetcode/maximumProduct6039.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="555" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/countCollisions6028.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="549" />
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="557" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimizeResult6038.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="550" />
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="562" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimizeResult6038.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="552" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimizeResult6038.java</url>
-          <line>36</line>
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>147</line>
           <option name="timeStamp" value="563" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimizeResult6038.java</url>
-          <line>46</line>
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>88</line>
           <option name="timeStamp" value="564" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimizeResult6038.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="565" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimizeResult6038.java</url>
-          <line>48</line>
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>94</line>
           <option name="timeStamp" value="566" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/minimizeResult6038.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="567" />
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="568" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/digitSum6070.java</url>
-          <line>38</line>
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="570" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestPalindrome5.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/calculate227.java</url>
+          <line>72</line>
           <option name="timeStamp" value="575" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/digitSum6070.java</url>
+          <url>file://$PROJECT_DIR$/src/Leetcode/calculate227.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="576" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/calculate227.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="577" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/removeDuplicateLetters316.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/removeDuplicateLetters316.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/removeDuplicateLetters316.java</url>
           <line>12</line>
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/isValid20.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/isValid20.java</url>
+          <line>77</line>
           <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/isValid20.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/isValid20.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="590" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/isValid20.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="591" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/nextGreaterElement496.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="592" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/nextGreaterElement496.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="593" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/nextGreaterElement496.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/nextGreaterElements503.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/nextGreaterElements503.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/carFleet853.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/carFleet853.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/asteroidCollision735.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="607" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/minAddToMakeValid921.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="615" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/minAddToMakeValid921.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="616" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/isValid1003.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="617" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="618" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="619" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="620" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="621" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="622" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="623" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="624" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="626" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="628" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="629" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/smallestSubsequence1081.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="630" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestWPI1124.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="631" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestWPI1124.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="634" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="635" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="636" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="638" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="639" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="640" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="641" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/mctFromLeafValues1130.java</url>
+          <line>24</line>
+          <properties class="Leetcode.mctFromLeafValues1130" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="642" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
