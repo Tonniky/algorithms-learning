@@ -1,6 +1,8 @@
 package Leetcode;
 
 public class Leetcode397 {
+
+
     public int integerReplacement(int n) {
         if (n == Integer.MAX_VALUE) {
             return 32;
@@ -13,6 +15,7 @@ public class Leetcode397 {
             return Math.min(integerReplacement(n - 1) + 1, integerReplacement(n + 1) + 1);
         }
     }
+
 
     public int integerReplacement1(int n) {
         if (n == Integer.MAX_VALUE) {

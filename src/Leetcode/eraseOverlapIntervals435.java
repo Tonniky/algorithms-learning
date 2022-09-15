@@ -1,42 +1,61 @@
-//package Leetcode;
-//
-//
-//import sun.jvm.hotspot.utilities.Interval;
-//
-//import java.util.Arrays;
-//import java.util.Comparator;
-//
-//public class eraseOverlapIntervals435 {
-//
-//    class myComparator implements Comparator<Interval> {
-//        @Override
-//        public int compare(Interval a, Interval b) {
-//            return a.start - b.start;
-//        }
-//    }
-//    public boolean isOverlapping(Interval i, Interval j) {
-//        return i.end > j.start;
-//    }
-//    public int eraseOverlapIntervals(Interval[] intervals) {
-//        if (intervals.length == 0) {
-//            return 0;
-//        }
-//        Arrays.sort(intervals, new myComparator());
-//        int dp[] = new int[intervals.length];
-//        dp[0] = 1;
-//        int ans = 1;
-//        for (int i = 1; i < dp.length; i++) {
-//            int max = 0;
-//            for (int j = i - 1; j >= 0; j--) {
-//                if (!isOverlapping(intervals[j], intervals[i])) {
-//                    max = Math.max(dp[j], max);
-//                }
-//            }
-//            dp[i] = max + 1;
-//            ans = Math.max(ans, dp[i]);
-//
-//        }
-//        return intervals.length - ans;
-//    }
-//
-//    }
+package Leetcode;
+
+
+import java.util.Arrays;
+import java.util.Comparator;
+
+public class eraseOverlapIntervals435 {
+
+    public int eraseOverlapIntervals1(int[][] intervals) {
+        if (intervals.length == 0) {
+            return 0;
+        }
+        Arrays.sort(intervals, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[0] - o2[0];
+            }
+        });
+
+        int n = intervals.length;
+        int[] f = new int[n];
+        Arrays.fill(f, 1);
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+                if (intervals[j][1] <= intervals[i][i]) {
+                    f[i] = Math.max(f[i], f[j] + 1);
+                }
+            }
+        }
+        return n - Arrays.stream(f).max().getAsInt();
+    }
+
+    public int eraseOverlapIntervals(int[][] intervals) {
+        int n = intervals.length;
+        if (n == 0) {
+            return 0;
+        }
+        Arrays.sort(intervals, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[0] - o2[0];
+            }
+        });
+        int res = 0;
+        int left = intervals[0][0];
+        for (int i = 1; i < n; i++) {
+            if (left <= intervals[i][0]) {
+                res++;
+                left = intervals[i][1];
+            }
+        }
+        return res;
+    }
+
+
+    public static void main(String[] args) {
+        eraseOverlapIntervals435 eraseOverlapIntervals435 = new eraseOverlapIntervals435();
+        eraseOverlapIntervals435.eraseOverlapIntervals(new int[][]{{1, 2}, {2, 3}, {3, 4}, {1, 3}});
+    }
+
+}

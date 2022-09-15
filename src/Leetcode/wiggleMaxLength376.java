@@ -1,6 +1,4 @@
 package Leetcode;
-import java.util.*;
-
 public class wiggleMaxLength376 {
 
     //
@@ -23,6 +21,29 @@ public class wiggleMaxLength376 {
         return maxCount;
     }
 
+    public int wiggleMaxLength4(int[] nums) {
+        if (nums.length < 2) {
+            return nums.length;
+        }
+        int n = nums.length;
+        int[] up = new int[n];
+        int[] down = new int[n];
+        up[0] = down[0] = 1;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] > nums[i - 1]) {
+                up[i] = down[i] + 1;
+                down[i] = down[i - 1];
+            } else if (nums[i] < nums[i - 1]) {
+                down[i] = up[i - 1] + 1;
+                up[i] = up[i - 1];
+            } else {
+                down[i] = down[i - 1];
+                up[i] = down[i -1];
+        }
+        }
+        return Math.max(up[n - 1],down[n - 1]);
+    }
+
     //  这种思维模式真的好。
     public int wiggleMaxLength2(int[] nums) {
         if (nums.length < 2) {
@@ -32,12 +53,12 @@ public class wiggleMaxLength376 {
         int[] up = new int[len];
         int[] down = new int[len];
         up[0] = down[0] = 1;
-        for (int i = 1; i < len; i++) {
+        for (int i = 1; i < len; i++) { //
             if (nums[i] > nums[i - 1]) {
-                up[i] = down[i] + 1;
+                up[i] = down[i -1] + 1;
                 down[i] = down[i - 1];
             } else if (nums[i] < nums[i - 1]) {
-                down[i] = up[i] + 1;
+                down[i] = up[i - 1] + 1;
                 up[i] = up[i - 1];
             } else {
                 down[i] = down[i - 1];
@@ -66,7 +87,9 @@ public class wiggleMaxLength376 {
         return Math.max(up, down);
     }
 
-    //
+
+
+        //
 
 
 

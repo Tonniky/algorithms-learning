@@ -32,7 +32,7 @@ public class longestPalindrome5 {
                         dp[i][j] = dp[i + 1][j - 1];
                     }
                 }
-
+                //
                 if (dp[i][j] == true && l > maxLen) {
                     maxLen = l;
                     begin = i;
