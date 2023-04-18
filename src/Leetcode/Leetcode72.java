@@ -1,6 +1,5 @@
 package Leetcode;
 
-import com.sun.org.apache.xpath.internal.operations.Lt;
 
 public class Leetcode72 {
     public int minDistance(String word1, String word2) {

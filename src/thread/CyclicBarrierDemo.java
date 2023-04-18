@@ -2,10 +2,9 @@ package thread;
 
 import org.junit.Test;
 
-import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
-import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
+//import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
 
 public class CyclicBarrierDemo {
     //

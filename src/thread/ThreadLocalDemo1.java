@@ -14,7 +14,7 @@ public class ThreadLocalDemo1 {
         }
 
         public static void main(String[] args) throws InterruptedException {
-            final ThreadLocalDemo1 p=new ThreadLocalDemo1();
+            final ThreadLocalDemo1 p = new ThreadLocalDemo1();
             //这样做其实就是在操作同一个对象，如果需要实现多线程应该像下下面的注释一样，这样就针对于每一个线程创建一个独立的Person对象
             final ThreadLocal<ThreadLocalDemo1> t=new ThreadLocal<ThreadLocalDemo1>(){
                 @Override

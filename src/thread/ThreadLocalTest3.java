@@ -10,12 +10,12 @@ public class ThreadLocalTest3 {
         private String _name = "";
 
         public MyRunnable(String name) {
-//            _name = name;
             threadLocal.set((int) (Math.random() * 100D));
 
             System.out.println(name + " => " + Thread.currentThread().getName() + ":" + threadLocal.get());
         }
 
+        //
         @Override
         public void run() {
             System.out.println(Thread.currentThread().getName() + ":" + threadLocal.get());

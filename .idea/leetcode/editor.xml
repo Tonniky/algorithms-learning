@@ -3,451 +3,58 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[103]二叉树的锯齿形层序遍历.java">
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[103]二叉树的锯齿形层序遍历.java" />
-              <option name="questionId" value="103" />
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[116]填充每个节点的下一个右侧节点指针.md" />
+              <option name="frontendQuestionId" value="leetcode.cn116" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.java" />
+              <option name="titleSlug" value="populating-next-right-pointers-in-each-node" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java">
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1286]字母组合迭代器.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java" />
-              <option name="questionId" value="105" />
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1286]字母组合迭代器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1286" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1286]字母组合迭代器.java" />
+              <option name="titleSlug" value="iterator-for-combination" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[10]正则表达式匹配.java">
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1829]每个查询的最大异或值.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[10]正则表达式匹配.java" />
-              <option name="questionId" value="10" />
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1829]每个查询的最大异或值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1829" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1829]每个查询的最大异或值.java" />
+              <option name="titleSlug" value="maximum-xor-for-each-query" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.java">
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[526]优美的排列.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.java" />
-              <option name="questionId" value="116" />
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[526]优美的排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn526" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[526]优美的排列.java" />
+              <option name="titleSlug" value="beautiful-arrangement" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[11]盛最多水的容器.java">
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[894]所有可能的真二叉树.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[11]盛最多水的容器.java" />
-              <option name="questionId" value="11" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[23]合并K个排序链表.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[23]合并K个排序链表.java" />
-              <option name="questionId" value="23" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[515]在每个树行中找最大值.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[515]在每个树行中找最大值.java" />
-              <option name="questionId" value="515" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[5]最长回文子串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[5]最长回文子串.java" />
-              <option name="questionId" value="5" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[636]函数的独占时间.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[636]函数的独占时间.java" />
-              <option name="questionId" value="636" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[678]有效的括号字符串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[678]有效的括号字符串.java" />
-              <option name="questionId" value="678" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[682]棒球比赛.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[682]棒球比赛.java" />
-              <option name="questionId" value="682" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[726]原子的数量.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[726]原子的数量.java" />
-              <option name="questionId" value="726" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[735]行星碰撞.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[735]行星碰撞.java" />
-              <option name="questionId" value="735" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[736]Lisp 语法解析.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[736]Lisp 语法解析.java" />
-              <option name="questionId" value="736" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[739]每日温度.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[739]每日温度.java" />
-              <option name="questionId" value="739" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[856]括号的分数.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[856]括号的分数.java" />
-              <option name="questionId" value="886" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[907]子数组的最小值之和.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/2j/9ch9c_dx7rl_69780k6d5h0r0000gn/T/leetcode/editor/cn/[907]子数组的最小值之和.java" />
-              <option name="questionId" value="943" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1003]检查替换后的词是否有效.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1003]检查替换后的词是否有效.java" />
-              <option name="questionId" value="1045" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1006]笨阶乘.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1006]笨阶乘.java" />
-              <option name="questionId" value="1048" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1008]前序遍历构造二叉搜索树.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1008]前序遍历构造二叉搜索树.java" />
-              <option name="questionId" value="1050" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1019]链表中的下一个更大节点.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1019]链表中的下一个更大节点.java" />
-              <option name="questionId" value="1072" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1081]不同字符的最小子序列.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1081]不同字符的最小子序列.java" />
-              <option name="questionId" value="1159" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1111]有效括号的嵌套深度.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1111]有效括号的嵌套深度.java" />
-              <option name="questionId" value="1208" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1124]表现良好的最长时间段.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1124]表现良好的最长时间段.java" />
-              <option name="questionId" value="1219" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1130]叶值的最小代价生成树.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1130]叶值的最小代价生成树.java" />
-              <option name="questionId" value="1228" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[155]最小栈.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[155]最小栈.java" />
-              <option name="questionId" value="155" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[20]有效的括号.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[20]有效的括号.java" />
-              <option name="questionId" value="20" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[224]基本计算器.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[224]基本计算器.java" />
-              <option name="questionId" value="224" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[227]基本计算器 II.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[227]基本计算器 II.java" />
-              <option name="questionId" value="227" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[232]用栈实现队列.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[232]用栈实现队列.java" />
-              <option name="questionId" value="232" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[316]去除重复字母.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[316]去除重复字母.java" />
-              <option name="questionId" value="316" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[331]验证二叉树的前序序列化.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[331]验证二叉树的前序序列化.java" />
-              <option name="questionId" value="331" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[341]扁平化嵌套列表迭代器.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[341]扁平化嵌套列表迭代器.java" />
-              <option name="questionId" value="341" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[496]下一个更大元素 I.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[496]下一个更大元素 I.java" />
-              <option name="questionId" value="496" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java" />
-              <option name="questionId" value="4" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[503]下一个更大元素 II.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[503]下一个更大元素 II.java" />
-              <option name="questionId" value="503" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[589]N 叉树的前序遍历.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[589]N 叉树的前序遍历.java" />
-              <option name="questionId" value="775" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[590]N 叉树的后序遍历.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[590]N 叉树的后序遍历.java" />
-              <option name="questionId" value="776" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[5]最长回文子串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[5]最长回文子串.java" />
-              <option name="questionId" value="5" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[6035]选择建筑的方案数.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[6035]选择建筑的方案数.java" />
-              <option name="questionId" value="2325" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[678]有效的括号字符串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[678]有效的括号字符串.java" />
-              <option name="questionId" value="678" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[70]爬楼梯.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[70]爬楼梯.java" />
-              <option name="questionId" value="70" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[71]简化路径.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[71]简化路径.java" />
-              <option name="questionId" value="71" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[735]行星碰撞.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[735]行星碰撞.java" />
-              <option name="questionId" value="735" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[768]最多能完成排序的块 II.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[768]最多能完成排序的块 II.java" />
-              <option name="questionId" value="779" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[769]最多能完成排序的块.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[769]最多能完成排序的块.java" />
-              <option name="questionId" value="780" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[844]比较含退格的字符串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[844]比较含退格的字符串.java" />
-              <option name="questionId" value="874" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[84]柱状图中最大的矩形.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[84]柱状图中最大的矩形.java" />
-              <option name="questionId" value="84" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[853]车队.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[853]车队.java" />
-              <option name="questionId" value="883" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[856]括号的分数.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[856]括号的分数.java" />
-              <option name="questionId" value="886" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[901]股票价格跨度.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[901]股票价格跨度.java" />
-              <option name="questionId" value="937" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[907]子数组的最小值之和.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[907]子数组的最小值之和.java" />
-              <option name="questionId" value="943" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[921]使括号有效的最少添加.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[921]使括号有效的最少添加.java" />
-              <option name="questionId" value="957" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[946]验证栈序列.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[946]验证栈序列.java" />
-              <option name="questionId" value="983" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[962]最大宽度坡.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[962]最大宽度坡.java" />
-              <option name="questionId" value="1002" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[9]回文数.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[9]回文数.java" />
-              <option name="questionId" value="9" />
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[894]所有可能的真二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn894" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[894]所有可能的真二叉树.java" />
+              <option name="titleSlug" value="all-possible-full-binary-trees" />
             </LeetcodeEditor>
           </value>
         </entry>
