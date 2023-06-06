@@ -1,5 +1,9 @@
 package DesignPattern.AbstractFactory;
 
+/**
+ * 抽象工厂
+ * */
+
 public class FactoryProducer {
     public static AbstractFactory getFactory(String choice) {
         if (choice.equalsIgnoreCase("shape")) {
