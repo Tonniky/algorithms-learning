@@ -1,10 +1,9 @@
 package projectFast.mstrwkr;
 
-import java.util.Map;
-import java.util.Random;
-import java.util.Set;
+import org.junit.Test;
 
-//import org.junit.Test;
+import java.util.Map;
+import java.util.Set;
 
 public class TestMasterWorker {
 
@@ -15,7 +14,7 @@ public class TestMasterWorker {
 		}
 	}
 	
-//	@Test
+	@Test
 	public void testMasterWorker() {
 		Master m=new Master(new PlusWorker(),5);
 		for(int i=0;i<100;i++)

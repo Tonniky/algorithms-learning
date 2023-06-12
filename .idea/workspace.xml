@@ -14,232 +14,216 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update designPattern!">
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/AddMoneyRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/DimissionRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/HRRequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/LeaveRequst.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/PMRequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/Request.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/RequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/TLRequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Command.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/CommandImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Invoker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Receiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/AdvanceExpression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/Context.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/Expression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/SimpleExpression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/Colleague.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/ColleagueA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/ColleagueB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/ConcreteMediator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/Mediator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Adaptee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Adapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/AdapterS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/ReaderXml.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Target.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/XmlReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/Image.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/ProxyImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/ProxyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/RealImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/AbstractFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Blue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Color.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/ColorFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Day.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/FactoryProducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Green.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Night.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Red.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/ShapeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/ShiftFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Clothing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Jacket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Lady.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Man.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Trouser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/Man.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/ManBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/PersonBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/PersonDirector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Decorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Man.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/ManDecoratorA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/Facade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceAImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceBImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceCImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/FactoryPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/IWorkFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/ShapeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/StudentFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/StudentProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/TeacherFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/TeacherProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/WorkTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Prototype/ConcretePrototype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Prototype/Prototype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Prototype/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/Object.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/ObjectImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/ProxyObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/connect117$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/connect117.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/AddMoneyRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/DimissionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/HRRequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/LeaveRequst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/PMRequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/RequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/TLRequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/CommandImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/AdvanceExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/SimpleExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/ColleagueA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/ColleagueB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/AdapterS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Night.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/ShiftFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Clothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Jacket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Lady.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Trouser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/ManBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/PersonBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/PersonDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/ManDecoratorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceBImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceCImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/IWorkFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/StudentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/StudentProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/TeacherFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/TeacherProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/WorkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Prototype/ConcretePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Prototype/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/ObjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/ProxyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/Test.java" afterDir="false" />
+    <list default="true" id="02a3414a-ce57-469a-9ce3-1274e45c5287" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Blue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/ColorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/FactoryProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Green.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Red.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/ReaderXml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/XmlReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/FactoryPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/Image.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/ProxyImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/ProxyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/RealImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Blue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/ColorFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Green.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Red.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/ReaderXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/ReaderXml.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/XmlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/XmlReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/FactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/FactoryPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/ProxyImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/ProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZCYCodingGuide/array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aop/Cglib/HelloMethodInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Aop/Cglib/HelloMethodInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aop/Cglib/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Aop/Cglib/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aop/JDK/ProxyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Aop/JDK/ProxyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aop/JDK/RealClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Aop/JDK/RealClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aop/JDK/RealInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Aop/JDK/RealInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aop/JDK/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Aop/JDK/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdkversion/Stream/Db.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdkversion/Stream/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdkversion/Stream/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdkversion/Stream/Join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdkversion/Stream/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/streamPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdkversion/Stream/streamPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_01_GetMinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_01_GetMinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_02_TwoStacksImplementQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_02_TwoStacksImplementQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_04_DogCatQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_04_DogCatQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_05_StackSortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_05_StackSortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_06_HanoiStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_06_HanoiStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_08_MaxTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_08_MaxTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_01_PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_01_PrintCommonPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_02_RemoveLastKthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_02_RemoveLastKthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_03_RemoveNodeByRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_03_RemoveNodeByRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_04_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_04_ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_05_ReversePartList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_05_ReversePartList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_06_JosephusProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_06_JosephusProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_07_IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_07_IsPalindromeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_08_SmallerEqualBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_08_SmallerEqualBigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_09_CopyListWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_09_CopyListWithRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_10_AddTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_10_AddTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_11_FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_11_FindFirstIntersectNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_12_ConvertEveryKNodesInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_12_ConvertEveryKNodesInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_13_RemoveRepetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_13_RemoveRepetition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_14_RemoveGivenValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_14_RemoveGivenValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_15_BSTtoDoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_15_BSTtoDoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_16_ListSelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_16_ListSelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_17_RemoveNodeWired.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_17_RemoveNodeWired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_18_InsertNumToCircularList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_18_InsertNumToCircularList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_19_MergeTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_19_MergeTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2_listproblem/Problem_20_RelocateLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_2_listproblem/Problem_20_RelocateLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_01_PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_01_PreInPosTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_02_PrintEdgeNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_02_PrintEdgeNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_03_PrintBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_03_PrintBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_04_SerializeAndReconstructTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_04_SerializeAndReconstructTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_05_MorrisTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_05_MorrisTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_06_LongestPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_06_LongestPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_07_BiggestSubBSTInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_07_BiggestSubBSTInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_08_BiggestBSTTopologyInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_08_BiggestBSTTopologyInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_09_PrintBinaryTreeByLevelAndZigZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_09_PrintBinaryTreeByLevelAndZigZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_10_RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_10_RecoverBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_11_T1ContainsT2Topology.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_11_T1ContainsT2Topology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_12_T1SubtreeEqualsT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_12_T1SubtreeEqualsT2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_13_IsBalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_13_IsBalancedTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_14_PosArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_14_PosArrayToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_15_IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_15_IsBSTAndCBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_16_SortedArrayToBalancedBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_16_SortedArrayToBalancedBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_17_DescendantNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_17_DescendantNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_18_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_18_LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_19_TarjanAndDisjointSetsForLCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_19_TarjanAndDisjointSetsForLCA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_20_MaxDistanceInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_20_MaxDistanceInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_21_PreInPosArrayToTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_21_PreInPosArrayToTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_22_PreAndInArrayToPosArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_22_PreAndInArrayToPosArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_23_UniqueBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_23_UniqueBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/Problem_24_CompleteTreeNodeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/Problem_24_CompleteTreeNodeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3_binarytreeproblem/isSameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_3_binarytreeproblem/isSameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_01_FibonacciProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_01_FibonacciProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_02_MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_02_MinPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_03_CoinsMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_03_CoinsMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_04_CoinsWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_04_CoinsWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_05_LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_05_LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_06_HanoiProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_06_HanoiProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_07_LCSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_07_LCSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_08_LCSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_08_LCSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_09_EditCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_09_EditCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_10_StringCross.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_10_StringCross.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_11_DungeonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_11_DungeonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_12_NumberToLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_12_NumberToLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_13_ExpressionNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_13_ExpressionNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_14_CardsInLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_14_CardsInLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_15_JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_15_JumpGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_16_LongestConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_16_LongestConsecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4_recursionanddp/Problem_17_NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_4_recursionanddp/Problem_17_NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_01_IsDeformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_01_IsDeformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_02_AllNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_02_AllNumbersSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_03_RemoveKZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_03_RemoveKZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_04_IsRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_04_IsRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_05_ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_05_ConvertStringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_06_ReplaceString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_06_ReplaceString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_07_ConvertStringToCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_07_ConvertStringToCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_08_IsAllUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_08_IsAllUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_09_FindStringInContainsNullArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_09_FindStringInContainsNullArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_10_ModifyAndReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_10_ModifyAndReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_11_RotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_11_RotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_12_MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_12_MinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_13_PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_13_PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_15_ExpressionCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_15_ExpressionCompute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_16_ZeroLeftOneStringNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_16_ZeroLeftOneStringNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_17_LowestLexicography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_17_LowestLexicography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_18_LongestNoRepeatSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_18_LongestNoRepeatSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_19_FindNewTypeChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_19_FindNewTypeChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_20_MinWindowLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_20_MinWindowLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_21_PalindromeMinCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_21_PalindromeMinCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_22_RegularExpressionMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_22_RegularExpressionMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5_stringproblem/Problem_23_TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_5_stringproblem/Problem_23_TrieTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_bitoperation/Problem_01_SwapWithoutTmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_7_bitoperation/Problem_01_SwapWithoutTmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_bitoperation/Problem_02_GetMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_7_bitoperation/Problem_02_GetMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_bitoperation/Problem_03_AddMinusMultiDivideByBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_7_bitoperation/Problem_03_AddMinusMultiDivideByBit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_bitoperation/Problem_04_NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_7_bitoperation/Problem_04_NumberOf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_bitoperation/Problem_05_EvenTimesOddTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_7_bitoperation/Problem_05_EvenTimesOddTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_bitoperation/Problem_06_KTimesOneTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_7_bitoperation/Problem_06_KTimesOneTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_01_PrintMatrixSpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_01_PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_02_RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_02_RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_03_ZigZagPrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_03_ZigZagPrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_04_FindMinKNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_04_FindMinKNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_05_MinLengthForSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_05_MinLengthForSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_06_FindKMajority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_06_FindKMajority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_07_FindNumInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_07_FindNumInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_08_LongestIntegratedLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_08_LongestIntegratedLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_09_PrintUniquePairAndTriad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_09_PrintUniquePairAndTriad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_10_LongestSumSubArrayLengthInPositiveArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_10_LongestSumSubArrayLengthInPositiveArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_11_LongestSumSubArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_11_LongestSumSubArrayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_12_LongestLessSumSubArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_12_LongestLessSumSubArrayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_13_SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_13_SmallSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_14_SortNaturalNumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_14_SortNaturalNumberArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_15_EvenInEvenOddInOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_15_EvenInEvenOddInOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_16_SubArrayMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_16_SubArrayMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_17_SubMatrixMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_17_SubMatrixMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_18_FindOneLessValueIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_18_FindOneLessValueIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_19_SubArrayMaxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_19_SubArrayMaxProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_20_PrintMaxTopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_20_PrintMaxTopK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_21_MaxOneBorderSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_21_MaxOneBorderSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_22_MultiplyExceptOwn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_22_MultiplyExceptOwn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_23_PartitionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_23_PartitionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_24_MinPathValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_24_MinPathValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_25_SmallestMissNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_25_SmallestMissNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8_arrayandmatrix/Problem_26_MaxGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_8_arrayandmatrix/Problem_26_MaxGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_01_Rand5ToRand7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_01_Rand5ToRand7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_02_GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_02_GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_03_FactorialProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_03_FactorialProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_04_PointInRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_04_PointInRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_05_PointInTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_05_PointInTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_06_PaperFolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_06_PaperFolding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_07_ReservoirSampling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_07_ReservoirSampling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_08_SetAllHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_08_SetAllHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_09_MaxABSBetweenLeftAndRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_09_MaxABSBetweenLeftAndRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_10_LeastRecentlyUsedCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_10_LeastRecentlyUsedCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_11_RandomPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_11_RandomPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_12_ProbabilityXPowerK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_12_ProbabilityXPowerK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_13_PathsToNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_13_PathsToNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_14_SmallestUnFormedSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_14_SmallestUnFormedSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_15_NumberAndString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_15_NumberAndString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_16_OneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_16_OneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_17_PrintRandomM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_17_PrintRandomM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_18_PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_18_PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_19_SortedRatateArrayFindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_19_SortedRatateArrayFindMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_20_SortedRatateArrayFindNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_20_SortedRatateArrayFindNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_21_ChineseExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_21_ChineseExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_21_EnglishExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_21_EnglishExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_22_CandyProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_22_CandyProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_23_ReceiveAndPrintOrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_23_ReceiveAndPrintOrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_24_HeapWithoutDilatation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_24_HeapWithoutDilatation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_24_HeapWithoutDilatationForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_24_HeapWithoutDilatationForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_25_MadianQuick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_25_MadianQuick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_26_FindUpMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_26_FindUpMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_27_FindKthMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_27_FindKthMinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_28_TopKSumCrossTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_28_TopKSumCrossTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_29_TopKTimes1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_29_TopKTimes1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_29_TopKTimes2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_29_TopKTimes2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_30_ManacherAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_30_ManacherAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_31_KMPAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_31_KMPAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_32_ThrowChessPiecesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_32_ThrowChessPiecesProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_33_ArtistProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_33_ArtistProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9_others/Problem_34_PostOfficeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcyversion/chapter_9_others/Problem_34_PostOfficeProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/Test9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/package1/test8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/baidu/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/findCiclePosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/baidu/findCiclePosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/isCricle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/baidu/isCricle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/baidu/topK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/baidu/topK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/beikezhaofang/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/beikezhaofang/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/beikezhaofang/StackToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/beikezhaofang/StackToList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/bigo/DoubleSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/bigo/DoubleSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/bigo/StringToDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/bigo/StringToDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/byteDance/IsBalanceBinTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/byteDance/IsBalanceBinTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/meituan/findMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/meituan/findMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/netEase/findMaxLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/netEase/findMaxLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/pdd/reverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/pdd/reverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/soul/IntParseDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/soul/IntParseDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/yuanfudao/Rand10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/yuanfudao/Rand10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group_interview/zhaoyinwangluo/IpParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_interview/zhaoyinwangluo/IpParse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projectFast/mstrwkr/TestMasterWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectFast/mstrwkr/TestMasterWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/StringUtils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,7 +261,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="v1.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -335,7 +319,7 @@
     <property name="jmeter.home" value="" />
     <property name="jmeter.override" value="false" />
     <property name="js-jscs-nodeInterpreter" value="E:\qudong\node.js\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DesignPattern/createMode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ZCYCodingGuide" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -351,11 +335,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\softProject\leetcode\src\ZCYCodingGuide" />
+      <recent name="D:\softProject\leetcode\src\jdkversion" />
+      <recent name="D:\softProject\leetcode\src\DesignPattern\constructMode" />
+      <recent name="D:\softProject\leetcode\src\zcyversion" />
       <recent name="D:\softProject\leetcode\src\DesignPattern\createMode" />
-      <recent name="$PROJECT_DIR$/src/DesignPattern" />
-      <recent name="F:\springboot\algorithms-learning\src\Stream" />
-      <recent name="F:\springboot\algorithms-learning\src\projectFast" />
-      <recent name="F:\springboot\algorithms-learning\src\youhua" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\springboot\algorithms-learning\src\com\company" />
@@ -1294,7 +1278,8 @@
     <MESSAGE value="update leetcode solution" />
     <MESSAGE value="continue Update locks and high concurrency!" />
     <MESSAGE value="continue Update designPattern!" />
-    <option name="LAST_COMMIT_MESSAGE" value="continue Update designPattern!" />
+    <MESSAGE value="feat: update project structure!" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update project structure!" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
