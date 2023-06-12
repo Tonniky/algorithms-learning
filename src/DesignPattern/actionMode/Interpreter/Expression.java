@@ -1,0 +1,6 @@
+package DesignPattern.actionMode.Interpreter;
+
+
+public abstract class Expression {
+    abstract void interpret(Context ctx);
+}
