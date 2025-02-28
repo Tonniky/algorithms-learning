@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -14,7 +17,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update designPattern!" />
+    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +113,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Problem_03_ReverseStackUsingRecursive.executor": "Debug",
-    "git-widget-placeholder": "v1.1"
+    "git-widget-placeholder": "v1.1",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -960,7 +968,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686017509449</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -977,6 +985,11 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="21a4cf2f-6bd5-41ce-ae86-31da458f613d" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -993,6 +1006,11 @@
     </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="21a4cf2f-6bd5-41ce-ae86-31da458f613d">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -1032,9 +1050,9 @@
     <MESSAGE value="feat: update" />
     <MESSAGE value="feat：update record" />
     <MESSAGE value="update leetcode solution" />
-    <MESSAGE value="continue Update locks and high concurrency!" />
     <MESSAGE value="continue Update designPattern!" />
-    <option name="LAST_COMMIT_MESSAGE" value="continue Update designPattern!" />
+    <MESSAGE value="continue Update locks and high concurrency!" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue Update locks and high concurrency!" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
