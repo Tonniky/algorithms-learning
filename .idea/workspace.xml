@@ -14,233 +14,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update designPattern!">
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/AddMoneyRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/DimissionRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/HRRequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/LeaveRequst.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/PMRequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/Request.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/RequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/TLRequestHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/COR/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Command.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/CommandImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Invoker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Receiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Command/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/AdvanceExpression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/Context.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/Expression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/SimpleExpression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Interpreter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/Colleague.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/ColleagueA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/ColleagueB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/ConcreteMediator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/Mediator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/actionMode/Mediator/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Adaptee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Adapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/AdapterS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/ReaderXml.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Target.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Adapter/XmlReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/Image.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/ProxyImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/ProxyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/constructMode/Proxy/RealImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/AbstractFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Blue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Color.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/ColorFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Day.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/FactoryProducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Green.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Night.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Red.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/ShapeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/ShiftFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/AbstractFactory/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Clothing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Jacket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Lady.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Man.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Bridge/Trouser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/Man.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/ManBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/PersonBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/PersonDirector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Builder/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Decorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Man.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/ManDecoratorA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Decorator/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/Facade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceAImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceBImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/ServiceCImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Facade/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/FactoryPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/IWorkFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/ShapeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/StudentFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/StudentProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/TeacherFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/TeacherProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Factory/WorkTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Prototype/ConcretePrototype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Prototype/Prototype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Prototype/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/Object.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/ObjectImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/ProxyObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/createMode/Proxy/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/connect117$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithms-learning/Leetcode/connect117.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/AddMoneyRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/DimissionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/HRRequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/LeaveRequst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/PMRequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/RequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/TLRequestHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/COR/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/CommandImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Command/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/AdvanceExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/SimpleExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Interpreter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/ColleagueA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/ColleagueB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/actionMode/Mediator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/AdapterS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Night.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/ShiftFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Clothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Jacket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Lady.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Bridge/Trouser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/ManBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/PersonBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/PersonDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Builder/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/ManDecoratorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Decorator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceBImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/ServiceCImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Facade/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/IWorkFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/StudentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/StudentProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/TeacherFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/TeacherProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/WorkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Prototype/ConcretePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Prototype/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/ObjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/ProxyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Proxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Blue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/ColorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/FactoryProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Green.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Red.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/AbstractFactory/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/ReaderXml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Adapter/XmlReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/FactoryPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Factory/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/Image.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/ProxyImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/ProxyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/DesignPattern/Proxy/RealImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Blue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/ColorFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Green.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Red.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/AbstractFactory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/ReaderXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/ReaderXml.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/XmlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Adapter/XmlReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/FactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/FactoryPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/createMode/Factory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/ProxyImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/ProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/constructMode/Proxy/RealImage.java" afterDir="false" />
-    </list>
+    <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update designPattern!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,6 +56,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Tonniky"
+  }
+}]]></component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -313,6 +93,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="1RlRfXcigvSNbV5Z2Hu44a7YIUr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -321,34 +104,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="jmeter.home" value="" />
-    <property name="jmeter.override" value="false" />
-    <property name="js-jscs-nodeInterpreter" value="E:\qudong\node.js\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DesignPattern/createMode" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.3137931" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Problem_03_ReverseStackUsingRecursive.executor": "Debug",
+    "git-widget-placeholder": "v1.1"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\softProject\leetcode\src\DesignPattern\createMode" />
@@ -368,7 +129,7 @@
       <recent name="Aop.JDK" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Problem_03_ReverseStackUsingRecursive">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -515,6 +276,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_03_ReverseStackUsingRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_1_stackandqueue.Problem_03_ReverseStackUsingRecursive" />
+      <module name="algorithms-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_1_stackandqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPattern.actionMode.COR.Test" />
       <module name="algorithms-learning" />
@@ -567,19 +341,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.createMode.AbstractFactory.Factory.WorkTest" />
-      <module name="algorithms-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignPattern.createMode.AbstractFactory.Factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="changeFormatNumber923" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -612,34 +373,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -667,7 +400,7 @@
       <item itemvalue="Application.Leetcode476" />
       <item itemvalue="Application.changeFormatNumber923" />
       <item itemvalue="Application.smallestSubsequence1081" />
-      <item itemvalue="Application.WorkTest" />
+      <item itemvalue="Application.Problem_03_ReverseStackUsingRecursive" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
@@ -675,13 +408,21 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_03_ReverseStackUsingRecursive" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.WorkTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
@@ -1236,6 +977,20 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -1257,21 +1012,6 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1585,11 +1325,6 @@
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/ThreadLocalDemo2.java</url>
           <line>45</line>
           <option name="timeStamp" value="84" />
@@ -1613,16 +1348,6 @@
           <url>file://$PROJECT_DIR$/src/thread/CylicBarrierResult.java</url>
           <line>27</line>
           <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/thread/CountDownLatchDemo.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/thread/CylicBarrierResult.java</url>
