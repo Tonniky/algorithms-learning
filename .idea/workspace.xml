@@ -5,47 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554271ae-77da-414d-843b-99717ce31c45" name="Default" comment="continue Update locks and high concurrency!">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ddhi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/maxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/allzeroOrtwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/avgLost6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/bisai21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/calc5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/compareWithZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/countValidStations3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/currencyConverter18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/daka15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/dayinwenjian24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/evaluate27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/findMininumNumberFinder26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/findSub4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/guangfudianzhan11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/jiqirenArea20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/juxingxiangjiao13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/juzheng14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/kongxiani23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/lianggeqiudui28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/lianxiangci15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/lianxushu12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/minPathBinaryTree25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/movePerson9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/pisa8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/queue14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/vlan17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/whisperTime7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/xunilicai19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/zhengfangxing10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/zhongHuyang5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/bTypeCode/zuishaojiaohuan16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/getIntersetionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/lengthOfLongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/maxArea11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/maxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/mergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/removeNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/reverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/subarraySum560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/swapParis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/tongxinwuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/tongyixianzaihuowu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/LongestPattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/caishuzi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/chengfama7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/chuliqi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/cipanSort5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/dancidaoxu8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/fama6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/findLastPerson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/huiwenzichuan11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/jiedianshu9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/jingtaisaomiao15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/jisuanshuzuweizhi13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/minAverageLost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/rizhixianliu17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/rukou5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/shitupu18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/zhonghuyang4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/zishuzuMin10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/zongrenwushichang16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/zuijiandan14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/zuiyuanjuli12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms-learning/thread/CyclicBarrierDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,44 +109,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Debug",
-    "Application.Problem_01_GetMinStack.executor": "Debug",
-    "Application.allzeroOrtwoNum.executor": "Debug",
-    "Application.compareWithZero.executor": "Debug",
-    "Application.countValidStations3.executor": "Debug",
-    "Application.findSub4.executor": "Debug",
-    "Application.guangfudianzhan11.executor": "Debug",
-    "Application.jiqirenArea20.executor": "Debug",
-    "Application.lianggeqiudui28.executor": "Debug",
-    "Application.lianxiangci15.executor": "Debug",
-    "Application.lianxushu12.executor": "Debug",
-    "Application.maxNum.executor": "Debug",
-    "Application.movePerson9.executor": "Debug",
-    "Application.queue14.executor": "Debug",
-    "Application.test.executor": "Debug",
-    "Application.whisperTime7.executor": "Debug",
-    "Application.xunilicai19.executor": "Debug",
-    "Application.zhongHuyang5.executor": "Debug",
-    "Application.zuishaojiaohuan16.executor": "Debug",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.ThreadMonitorTimeoutTest.executor": "Debug",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "V03.0.0",
-    "last_opened_file_path": "/Users/triumph/IdeaProjects/algorithms-learning",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LongestPattern5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Problem_01_GetMinStack.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.allzeroOrtwoNum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.chengfama7.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.cipanSort5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.compareWithZero.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.countValidStations3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.dancidaoxu8.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.fama6.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.findLastPerson3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.findSub4.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.guangfudianzhan11.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.huiwenzichuan11.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.jiqirenArea20.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.jisuanshuzuweizhi13.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.lengthOfLongestSubString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.lianggeqiudui28.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.lianxiangci15.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.lianxushu12.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.maxArea11.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.maxNum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.maxSubArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.merge.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.minAverageLost.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.movePerson9.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.queue14.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.rukou5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.shitupu18.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.subarraySum560.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.swapParis.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.test.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.tongxinwuma.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.trap.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.whisperTime7.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.xunilicai19.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.zhongHuyang5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.zishuzuMin10.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.zongrenwushichang16.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.zuishaojiaohuan16.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.zuiyuanjuli12.executor&quot;: &quot;Debug&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.ThreadMonitorTimeoutTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;V03.0.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/triumph/IdeaProjects/algorithms-learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Code Search&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\springboot\algorithms-learning\src\Stream" />
@@ -163,7 +180,7 @@
       <recent name="F:\springboot\algorithms-learning\src\com\company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.maxNum">
+  <component name="RunManager" selected="Application.tongxinwuma">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -306,12 +323,12 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="maxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot100.maxSubArray" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="hot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jiqirenArea20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewCompany.Huawei.bTypeCode.jiqirenArea20" />
+    <configuration name="merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot100.merge" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewCompany.Huawei.bTypeCode.*" />
+          <option name="PATTERN" value="hot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,12 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lianggeqiudui28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewCompany.Huawei.bTypeCode.lianggeqiudui28" />
+    <configuration name="subarraySum560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot100.subarraySum560" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewCompany.Huawei.bTypeCode.*" />
+          <option name="PATTERN" value="hot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,12 +362,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.maxNum" />
+    <configuration name="swapParis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot100.swapParis" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="hot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+    <configuration name="tongxinwuma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot100.tongxinwuma" />
       <module name="algorithms-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="hot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,19 +422,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.maxNum" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.jiqirenArea20" />
-      <item itemvalue="Application.lianggeqiudui28" />
-      <item itemvalue="Application.test" />
+      <item itemvalue="Application.swapParis" />
+      <item itemvalue="Application.tongxinwuma" />
+      <item itemvalue="Application.maxSubArray" />
+      <item itemvalue="Application.merge" />
+      <item itemvalue="Application.subarraySum560" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.maxNum" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lianggeqiudui28" />
-        <item itemvalue="Application.jiqirenArea20" />
+        <item itemvalue="Application.tongxinwuma" />
+        <item itemvalue="Application.swapParis" />
+        <item itemvalue="Application.merge" />
+        <item itemvalue="Application.maxSubArray" />
+        <item itemvalue="Application.subarraySum560" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +504,10 @@
       <workItem from="1575109355033" duration="3064000" />
       <workItem from="1576064939547" duration="2355000" />
       <workItem from="1749909925918" duration="119322000" />
-      <workItem from="1750922311961" duration="15546000" />
+      <workItem from="1750922311961" duration="35243000" />
+      <workItem from="1751360942514" duration="26175000" />
+      <workItem from="1751533984201" duration="29209000" />
+      <workItem from="1751942049866" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Processing of submitted multi-threaded and stream streams">
       <created>1564497477269</created>
@@ -511,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740711957020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="continue Update locks and high concurrency!">
+      <option name="closed" value="true" />
+      <created>1751193718382</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751193718382</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -576,9 +604,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Processing of submitted multi-threaded and stream streams" />
     <MESSAGE value="Update locks and high concurrency !" />
-    <MESSAGE value="continue Update locks and high concurrency!" />
     <MESSAGE value="add new branch V0.3.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new branch V0.3.0.0" />
+    <MESSAGE value="continue Update locks and high concurrency!" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue Update locks and high concurrency!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1102,12 +1130,114 @@
           <line>19</line>
           <option name="timeStamp" value="190" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/chengfama7.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/chengfama7.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/huiwenzichuan11.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/huiwenzichuan11.java</url>
+          <line>36</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/jisuanshuzuweizhi13.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interviewCompany/Huawei/aTypeCode/shitupu18.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/lengthOfLongestSubString.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/lengthOfLongestSubString.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/lengthOfLongestSubString.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/merge.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/merge.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/merge.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/merge.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/swapParis.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/tongxinwuma.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/tongxinwuma.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/tongxinwuma.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hot100/tongxinwuma.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithms_learning$rukou5.ic" NAME="rukou5 Coverage Results" MODIFIED="1751510460089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>interviewCompany.Huawei.aTypeCode.*</FILTER>
+    </SUITE>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
